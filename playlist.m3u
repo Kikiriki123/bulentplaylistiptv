@@ -1,0 +1,1078 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="******Hrvatska******" tvg-logo="http://img1.iwascoding.com/4/paid/2014/06/05/D0/77844DE5758E4F1EBC2A3148430E2D47.jpg" group-title="Domaci",******Hrvatska****** - ******Hrvatska******
+http://s04.kafic.info:80/live?channelId=1&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="2" tvg-name="HRT 1" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt1.png" group-title="Domaci",HRT 1 - HRT 1
+http://s01.kafic.info:80/live?channelId=2&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="3" tvg-name="HRT 2" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt2.png" group-title="Domaci",HRT 2 - HRT 2
+http://s01.kafic.info:80/live?channelId=3&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="4" tvg-name="HRT 3" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt3.png" group-title="Domaci",HRT 3 - HRT 3
+http://s01.kafic.info:80/live?channelId=4&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="5" tvg-name="HRT 4" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt4.png" group-title="Domaci",HRT 4 - HRT 4
+http://s01.kafic.info:80/live?channelId=5&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="6" tvg-name="Nova TV" tvg-logo="http://i.imgur.com/55EbrFX.jpg" group-title="Domaci",Nova TV - Nova TV
+http://s01.kafic.info:80/live?channelId=6&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="7" tvg-name="Doma TV" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/doma_tv.png" group-title="Domaci",Doma TV - Doma TV
+http://cms.kafic.info:80/live?channelId=7&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="8" tvg-name="RTL" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/rtl.png" group-title="Domaci",RTL - RTL
+http://cms.kafic.info:80/live?channelId=8&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="9" tvg-name="RTL 2" tvg-logo="http://i.imgur.com/qiUoevS.jpg" group-title="Domaci",RTL 2 - RTL 2
+http://s01.kafic.info:80/live?channelId=9&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="442" tvg-name="RTL Crime" tvg-logo="http://4.bp.blogspot.com/-DhB-0XAlLEA/VQNIcJQvguI/AAAAAAAAATM/ueyQ56S_WgI/s1600/RTL-Crime1.png" group-title="Domaci",RTL Crime - RTL Crime
+http://s04.kafic.info:80/live?channelId=442&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="10" tvg-name="RTL Living" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/rtl_living.png" group-title="Domaci",RTL Living - RTL Living
+http://cms.kafic.info:80/live?channelId=10&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="443" tvg-name="RTL Passion" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Passion_2006.svg/300px-Logo_Passion_2006.svg.png" group-title="Domaci",RTL Passion - RTL Passion
+http://s01.kafic.info:80/live?channelId=443&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="430" tvg-name="Osjecka TV" tvg-logo="http://www.osijek031.com/slike/novosti_2008_11/2008_11_17_ostv_logo_200x200_2.png" group-title="Domaci",Osjecka TV - Osjecka TV
+http://s04.kafic.info:80/live?channelId=430&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="431" tvg-name="Slavonska TV" tvg-logo="http://tvprofil.net/img/kanali-logo/stv-logo.png" group-title="Domaci",Slavonska TV - Slavonska TV
+http://s04.kafic.info:80/live?channelId=431&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="432" tvg-name="Vinkovacka TV" tvg-logo="http://tvprofil.net/img/kanali-logo/vinkovacka-tv-logo.png" group-title="Domaci",Vinkovacka TV - Vinkovacka TV
+http://s04.kafic.info:80/live?channelId=432&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="869" tvg-name="Z1" tvg-logo="/noicon.png" group-title="Domaci",Z1 - Z1
+http://s02.kafic.info:80/live?channelId=869&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="11" tvg-name="CMC" tvg-logo="http://esso.bossna-caffe.com/logos/cmc-logo.png" group-title="Domaci",CMC - CMC
+http://cms.kafic.info:80/live?channelId=11&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="12" tvg-name="Banovina TV" tvg-logo="http://esso.bossna-caffe.com/logos/cro/logo_rtv%20banovina%20hr.png" group-title="Domaci",Banovina TV - Banovina TV
+http://cms.kafic.info:80/live?channelId=12&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="13" tvg-name="*****Bosna*****" tvg-logo="http://previews.123rf.com/images/Suljo/Suljo0710/Suljo071000025/1877563-Winkenden-Flagge-von-Bosnien-und-Herzegowina-isoliert-auf-wei-em--Lizenzfreie-Bilder.jpg" group-title="Domaci",*****Bosna***** - *****Bosna*****
+http://s04.kafic.info:80/live?channelId=13&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="14" tvg-name="BHT 1" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/bht1.png" group-title="Domaci",BHT 1 - BHT 1
+http://s01.kafic.info:80/live?channelId=14&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="15" tvg-name="Federalna TV" tvg-logo="http://nextgen-iptv.com/Logos/bih/ftv.png" group-title="Domaci",Federalna TV - Federalna TV
+http://cms.kafic.info:80/live?channelId=15&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="16" tvg-name="TV Sarajevo" tvg-logo="http://nextgen-iptv.com/Logos/bih/tv_sarajevo.png" group-title="Domaci",TV Sarajevo - TV Sarajevo
+http://cms.kafic.info:80/live?channelId=16&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="17" tvg-name="Al Jazeera Balkans" tvg-logo="http://nextgen-iptv.com/Logos/bih/al_jazeera_balkans.png" group-title="Domaci",Al Jazeera Balkans - Al Jazeera Balkans
+http://cms.kafic.info:80/live?channelId=17&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="18" tvg-name="ATV" tvg-logo="http://nextgen-iptv.com/Logos/bih/a_tv_ba.png" group-title="Domaci",ATV - ATV
+http://cms.kafic.info:80/live?channelId=18&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="19" tvg-name="Face TV" tvg-logo="http://nextgen-iptv.com/Logos/bih/face_tv_ba.png" group-title="Domaci",Face TV - Face TV
+http://cms.kafic.info:80/live?channelId=19&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="20" tvg-name="TK Tuzla" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/tk-logo.png" group-title="Domaci",TK Tuzla - TK Tuzla
+http://s01.kafic.info:80/live?channelId=20&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="21" tvg-name="Hayat TV" tvg-logo="http://nextgen-iptv.com/Logos/bih/hayat_ba.png" group-title="Domaci",Hayat TV - Hayat TV
+http://cms.kafic.info:80/live?channelId=21&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="435" tvg-name="Hayat Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/bs/1/1a/Logo_hayat_tv_sat_plus.png" group-title="Domaci",Hayat Plus - Hayat Plus
+http://s01.kafic.info:80/live?channelId=435&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="436" tvg-name="Hayat Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Logo_of_Hayat_Music_TV.png" group-title="Domaci",Hayat Music - Hayat Music
+http://s01.kafic.info:80/live?channelId=436&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="22" tvg-name="Hayat Folk" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/hayat_ba.png" group-title="Domaci",Hayat Folk - Hayat Folk
+http://cms.kafic.info:80/live?channelId=22&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="23" tvg-name="N1" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/n1_rs.png" group-title="Domaci",N1 - N1
+http://cms.kafic.info:80/live?channelId=23&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="24" tvg-name="OBN" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/obn_ba.png" group-title="Domaci",OBN - OBN
+http://cms.kafic.info:80/live?channelId=24&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="25" tvg-name="Valentino TV" tvg-logo="http://i.imgur.com/UTpWPGl.jpg" group-title="Domaci",Valentino TV - Valentino TV
+http://cms.kafic.info:80/live?channelId=25&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="26" tvg-name="Izvorna TV" tvg-logo="http://i.imgur.com/KpdByyl.jpg" group-title="Domaci",Izvorna TV - Izvorna TV
+http://cms.kafic.info:80/live?channelId=26&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="28" tvg-name="MTV Igman" tvg-logo="http://nextgen-iptv.com/Logos/bih/mtv_igman.png" group-title="Domaci",MTV Igman - MTV Igman
+http://s01.kafic.info:80/live?channelId=28&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="29" tvg-name="BN" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/bn_televizija.png" group-title="Domaci",BN - BN
+http://cms.kafic.info:80/live?channelId=29&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="30" tvg-name="BN Music" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/bn_televizija.png" group-title="Domaci",BN Music - BN Music
+http://cms.kafic.info:80/live?channelId=30&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="31" tvg-name="RTV Zenica" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/bih/rtv_zenica_ba.png" group-title="Domaci",RTV Zenica - RTV Zenica
+http://cms.kafic.info:80/live?channelId=31&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="32" tvg-name="Posavina Tv" tvg-logo="http://nextgen-iptv.com/Logos/bih/posavina_tv_ba.png" group-title="Domaci",Posavina Tv - Posavina Tv
+http://cms.kafic.info:80/live?channelId=32&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="33" tvg-name="Duga Tv" tvg-logo="http://i.imgur.com/vIMutsU.png" group-title="Domaci",Duga Tv - Duga Tv
+http://cms.kafic.info:80/live?channelId=33&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="375" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV1_Bosnia_and_Herzegovina_logo.jpg" group-title="Domaci",TV1 - TV1
+http://s04.kafic.info:80/live?channelId=375&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="449" tvg-name="RTV Mir" tvg-logo="http://i.imgur.com/tlTatGH.jpg" group-title="Domaci",RTV Mir - RTV Mir
+http://cms.kafic.info:80/live?channelId=449&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="462" tvg-name="RTV USK" tvg-logo="/noicon.png" group-title="Domaci",RTV USK - RTV USK
+http://s04.kafic.info:80/live?channelId=462&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="874" tvg-name="RTV Slon" tvg-logo="/noicon.png" group-title="Domaci",RTV Slon - RTV Slon
+http://cms.kafic.info:80/live?channelId=874&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="875" tvg-name="Alfa TV Sarajevo" tvg-logo="/noicon.png" group-title="Domaci",Alfa TV Sarajevo - Alfa TV Sarajevo
+http://cms.kafic.info:80/live?channelId=875&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="42" tvg-name="RTRS" tvg-logo="http://nextgen-iptv.com/Logos/srb/rts_rs_hd.png" group-title="Domaci",RTRS - RTRS
+http://cms.kafic.info:80/live?channelId=42&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="905" tvg-name="Glas Drine" tvg-logo="/noicon.png" group-title="Domaci",Glas Drine - Glas Drine
+http://s02.kafic.info:80/live?channelId=905&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="908" tvg-name="Prva Hercegovačka" tvg-logo="/noicon.png" group-title="Domaci",Prva Hercegovačka - Prva Hercegovačka
+http://s02.kafic.info:80/live?channelId=908&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="918" tvg-name="A1 Balkan" tvg-logo="/noicon.png" group-title="Domaci",A1 Balkan - A1 Balkan
+http://s04.kafic.info:80/live?channelId=918&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="920" tvg-name="A1 International" tvg-logo="/noicon.png" group-title="Domaci",A1 International - A1 International
+http://s04.kafic.info:80/live?channelId=920&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="919" tvg-name="A1 Islam" tvg-logo="/noicon.png" group-title="Domaci",A1 Islam - A1 Islam
+http://s04.kafic.info:80/live?channelId=919&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="34" tvg-name="*****Srbija*****" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/150px-Flag_of_Serbia.svg.png" group-title="Domaci",*****Srbija***** - *****Srbija*****
+http://s04.kafic.info:80/live?channelId=34&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="35" tvg-name="RTS 1" tvg-logo="http://nextgen-iptv.com/Logos/srb/rts_rs_1.png" group-title="Domaci",RTS 1 - RTS 1
+http://cms.kafic.info:80/live?channelId=35&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="36" tvg-name="RTS 2" tvg-logo="http://nextgen-iptv.com/Logos/srb/rts_rs_2.png" group-title="Domaci",RTS 2 - RTS 2
+http://s01.kafic.info:80/live?channelId=36&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="37" tvg-name="RTS Sat" tvg-logo="http://nextgen-iptv.com/Logos/srb/rts_rs_hd.png" group-title="Domaci",RTS Sat - RTS Sat
+http://cms.kafic.info:80/live?channelId=37&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="474" tvg-name="RTV 1" tvg-logo="http://i.imgur.com/gAFXYVp.jpg" group-title="Domaci",RTV 1 - RTV 1
+http://s02.kafic.info:80/live?channelId=474&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="38" tvg-name="B92" tvg-logo="http://nextgen-iptv.com/Logos/srb/b92_rs_tv.png" group-title="Domaci",B92 - B92
+http://cms.kafic.info:80/live?channelId=38&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="873" tvg-name="Studio B" tvg-logo="/noicon.png" group-title="Domaci",Studio B - Studio B
+http://cms.kafic.info:80/live?channelId=873&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="39" tvg-name="Nova Rs" tvg-logo="http://nextgen-iptv.com/Logos/srb/nova_rs.png" group-title="Domaci",Nova Rs - Nova Rs
+http://cms.kafic.info:80/live?channelId=39&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="40" tvg-name="Prva" tvg-logo="http://nextgen-iptv.com/Logos/srb/prva_rs.png" group-title="Domaci",Prva - Prva
+http://s01.kafic.info:80/live?channelId=40&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="41" tvg-name="Prva Plus" tvg-logo="http://nextgen-iptv.com/Logos/srb/prva_plus_rs.png" group-title="Domaci",Prva Plus - Prva Plus
+http://cms.kafic.info:80/live?channelId=41&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="223" tvg-name="Happy TV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/a3/Happy_tv_new_logo.png/revision/latest?cb=20140425115338" group-title="Domaci",Happy TV - Happy TV
+http://s02.kafic.info:80/live?channelId=223&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="27" tvg-name="DM Sat" tvg-logo="http://i.imgur.com/fYAhfGm.jpg" group-title="Domaci",DM Sat - DM Sat
+http://cms.kafic.info:80/live?channelId=27&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="43" tvg-name="Grand Narodna TV" tvg-logo="http://i.imgur.com/wqrEPl1.jpg" group-title="Domaci",Grand Narodna TV - Grand Narodna TV
+http://s01.kafic.info:80/live?channelId=43&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="224" tvg-name="RTV Novi Pazar" tvg-logo="http://i.imgur.com/OeFtPvI.jpg" group-title="Domaci",RTV Novi Pazar - RTV Novi Pazar
+http://s01.kafic.info:80/live?channelId=224&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="45" tvg-name="RTV CG" tvg-logo="http://i.imgur.com/6FYxgKE.png" group-title="Domaci",RTV CG - RTV CG
+http://cms.kafic.info:80/live?channelId=45&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="871" tvg-name="RTV Atlas" tvg-logo="/noicon.png" group-title="Domaci",RTV Atlas - RTV Atlas
+http://cms.kafic.info:80/live?channelId=871&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="48" tvg-name="Balkanika" tvg-logo="http://i.imgur.com/Vh6uuvI.jpg" group-title="Domaci",Balkanika - Balkanika
+http://cms.kafic.info:80/live?channelId=48&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="465" tvg-name="Sandzak TV" tvg-logo="/noicon.png" group-title="Domaci",Sandzak TV - Sandzak TV
+http://s04.kafic.info:80/live?channelId=465&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="906" tvg-name="Belle Amie TV" tvg-logo="/noicon.png" group-title="Domaci",Belle Amie TV - Belle Amie TV
+http://s02.kafic.info:80/live?channelId=906&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="907" tvg-name="VIP TV" tvg-logo="/noicon.png" group-title="Domaci",VIP TV - VIP TV
+http://s02.kafic.info:80/live?channelId=907&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="913" tvg-name="TV Palma Plus Jagodina (Test)" tvg-logo="/noicon.png" group-title="Domaci",TV Palma Plus Jagodina (Test) - TV Palma Plus Jagodina (Test)
+http://s02.kafic.info:80/live?channelId=913&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="225" tvg-name="***** Makedonski *****" tvg-logo="/noicon.png" group-title="Domaci",***** Makedonski ***** - ***** Makedonski *****
+http://s04.kafic.info:80/live?channelId=225&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="426" tvg-name="MRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/MRT_1_new_logo.png" group-title="Domaci",MRT 1 - MRT 1
+http://s04.kafic.info:80/live?channelId=426&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="427" tvg-name="MRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/MRT_2_new_logo.png" group-title="Domaci",MRT 2 - MRT 2
+http://s04.kafic.info:80/live?channelId=427&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="226" tvg-name="Kanal 5" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0023/9690/brand.gif?itok=Egt1qx6k" group-title="Domaci",Kanal 5 - Kanal 5
+http://s01.kafic.info:80/live?channelId=226&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="227" tvg-name="Kanal 5+" tvg-logo="http://tvprofil.net/img/kanali-logo/kanal5-plus-logo.png" group-title="Domaci",Kanal 5+ - Kanal 5+
+http://s01.kafic.info:80/live?channelId=227&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="228" tvg-name="Sitel" tvg-logo="http://tvprofil.net/img/kanali-logo/sitel-logo.png" group-title="Domaci",Sitel - Sitel
+http://s01.kafic.info:80/live?channelId=228&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="229" tvg-name="Sitel 3" tvg-logo="http://mvljnski.home.xs4all.nl/images/sitel3.jpg" group-title="Domaci",Sitel 3 - Sitel 3
+http://s01.kafic.info:80/live?channelId=229&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="230" tvg-name="Telma" tvg-logo="http://mediapedia.mk/media/sliki/telma_logo_ySbReM9.jpg" group-title="Domaci",Telma - Telma
+http://s01.kafic.info:80/live?channelId=230&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="235" tvg-name="Alsat M" tvg-logo="http://i.imgur.com/5udojF5.jpg" group-title="Domaci",Alsat M - Alsat M
+http://s02.kafic.info:80/live?channelId=235&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="236" tvg-name="Alfa TV MK" tvg-logo="http://tvprofil.net/img/kanali-logo/alfatvlogo.png" group-title="Domaci",Alfa TV MK - Alfa TV MK
+http://cms.kafic.info:80/live?channelId=236&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="876" tvg-name="24 Vesti" tvg-logo="/noicon.png" group-title="Domaci",24 Vesti - 24 vesti
+http://s01.kafic.info:80/live?channelId=876&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="49" tvg-name="*****PINK*****" tvg-logo="/noicon.png" group-title="Pink",*****PINK***** - *****PINK*****
+http://s04.kafic.info:80/live?channelId=49&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="50" tvg-name="Pink" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_1_rs.png" group-title="Pink",Pink - Pink
+http://cms.kafic.info:80/live?channelId=50&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="51" tvg-name="Pink BH" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_bh.png" group-title="Pink",Pink BH - Pink BH
+http://cms.kafic.info:80/live?channelId=51&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="52" tvg-name="Pink Plus" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_plus.png" group-title="Pink",Pink Plus - Pink Plus
+http://cms.kafic.info:80/live?channelId=52&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="53" tvg-name="Pink 2" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_2_rs.png" group-title="Pink",Pink 2 - Pink 2
+http://cms.kafic.info:80/live?channelId=53&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="54" tvg-name="Pink 3" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_3_info_rs.png" group-title="Pink",Pink 3 - Pink 3
+http://cms.kafic.info:80/live?channelId=54&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="55" tvg-name="Pink M" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_m.png" group-title="Pink",Pink M - Pink M
+http://cms.kafic.info:80/live?channelId=55&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="56" tvg-name="Pink Soap" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_soap_rs.png" group-title="Pink",Pink Soap - Pink Soap
+http://cms.kafic.info:80/live?channelId=56&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="57" tvg-name="Pink Action" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_action.png" group-title="Pink",Pink Action - Pink Action
+http://cms.kafic.info:80/live?channelId=57&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="58" tvg-name="Pink Film" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_film.png" group-title="Pink",Pink Film - Pink Film
+http://cms.kafic.info:80/live?channelId=58&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="59" tvg-name="Pink Folk 1" tvg-logo="http://i.imgur.com/73SFnlN.jpg" group-title="Pink",Pink Folk 1 - Pink Folk 1
+http://cms.kafic.info:80/live?channelId=59&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="60" tvg-name="Pink Folk 2" tvg-logo="http://i.imgur.com/YmfACQy.jpg" group-title="Pink",Pink Folk 2 - Pink Folk 2
+http://cms.kafic.info:80/live?channelId=60&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="61" tvg-name="Pink Premium" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_premium_rs.png" group-title="Pink",Pink Premium - Pink Premium
+http://cms.kafic.info:80/live?channelId=61&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="62" tvg-name="Pink Comedy" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_comedy_rs.png" group-title="Pink",Pink Comedy - Pink Comedy
+http://cms.kafic.info:80/live?channelId=62&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="63" tvg-name="Pink Horror" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pinkHorror.png" group-title="Pink",Pink Horror - Pink Horror
+http://cms.kafic.info:80/live?channelId=63&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="64" tvg-name="Pink Movies" tvg-logo="http://i.imgur.com/6HtdobD.png" group-title="Pink",Pink Movies - Pink Movies
+http://cms.kafic.info:80/live?channelId=64&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="65" tvg-name="Pink Crime & Mystery" tvg-logo="http://nextgen-iptv.com/Logos/pnk/Pink_Crime_Mistery_logo.png" group-title="Pink",Pink Crime & Mystery - Pink Crime & Mystery
+http://cms.kafic.info:80/live?channelId=65&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="66" tvg-name="Pink World Cinema" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_world_rs.png" group-title="Pink",Pink World Cinema - Pink World Cinema
+http://cms.kafic.info:80/live?channelId=66&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="67" tvg-name="Pink Western" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink-western-logo.png" group-title="Pink",Pink Western - Pink Western
+http://cms.kafic.info:80/live?channelId=67&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="68" tvg-name="Pink Pedia" tvg-logo="http://www.igreklik.com/slike/images/89386595985049489016.png" group-title="Pink",Pink Pedia - Pink Pedia
+http://cms.kafic.info:80/live?channelId=68&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="70" tvg-name="Pink Sci Fi & Fantasy" tvg-logo="http://nextgen-iptv.com/Logos/pnk/Pink_SciFi_Fantasy_logo.png" group-title="Pink",Pink Sci Fi & Fantasy - Pink Sci Fi & Fantasy
+http://cms.kafic.info:80/live?channelId=70&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="71" tvg-name="Pink Thriller" tvg-logo="http://nextgen-iptv.com/Logos/pnk/Pink_Thriller_logo.png" group-title="Pink",Pink Thriller - Pink Thriller
+http://cms.kafic.info:80/live?channelId=71&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="872" tvg-name="Pink Classic" tvg-logo="/noicon.png" group-title="Pink",Pink Classic - Pink Classic
+http://cms.kafic.info:80/live?channelId=872&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="72" tvg-name="Pink Zabava" tvg-logo="http://i.imgur.com/fvqEwnb.png" group-title="Pink",Pink Zabava - Pink Zabava
+http://cms.kafic.info:80/live?channelId=72&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="73" tvg-name="Pink Music" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_music.png" group-title="Pink",Pink Music - Pink Music
+http://cms.kafic.info:80/live?channelId=73&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="74" tvg-name="Pink Romance" tvg-logo="http://nextgen-iptv.com/Logos/pnk/Pink_Romance_logo.png" group-title="Pink",Pink Romance - Pink Romance
+http://cms.kafic.info:80/live?channelId=74&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="75" tvg-name="Pink Reality" tvg-logo="http://nextgen-iptv.com/Logos/pnk/pink_reality_rs.png" group-title="Pink",Pink Reality - Pink Reality
+http://cms.kafic.info:80/live?channelId=75&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="433" tvg-name="Pink Kuvar" tvg-logo="http://i.imgur.com/VgHSj45.jpg" group-title="Pink",Pink Kuvar - Pink Kuvar
+http://s04.kafic.info:80/live?channelId=433&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="78" tvg-name="***** Film & serije *****" tvg-logo="/noicon.png" group-title="Film & Serije",***** Film & serije ***** - ***** Film & serije *****
+http://s04.kafic.info:80/live?channelId=78&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="79" tvg-name="HBO Adria" tvg-logo="http://esso.bossna-caffe.com/logos/HBO.png" group-title="Film & Serije",HBO Adria - HBO Adria
+http://s01.kafic.info:80/live?channelId=79&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="80" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Film & Serije",HBO 2 - HBO 2
+http://s01.kafic.info:80/live?channelId=80&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="622" tvg-name="HBO 3" tvg-logo="http://i.imgur.com/t9QxK3C.jpg" group-title="Film & Serije",HBO 3 - HBO 3
+http://cms.kafic.info:80/live?channelId=622&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="81" tvg-name="CineStar TV" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_logo.png" group-title="Film & Serije",CineStar TV - CineStar TV
+http://s01.kafic.info:80/live?channelId=81&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="82" tvg-name="CineStar Premiere" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_premiere_1_logo.png" group-title="Film & Serije",CineStar Premiere - CineStar Premiere
+http://s01.kafic.info:80/live?channelId=82&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="83" tvg-name="CineStar Premiere 2" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_premiere_2_logo.png" group-title="Film & Serije",CineStar Premiere 2 - CineStar Premiere 2
+http://s01.kafic.info:80/live?channelId=83&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="84" tvg-name="CineStar Action & Thriller" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_action_logo.png" group-title="Film & Serije",CineStar Action & Thriller - CineStar Action & Thriller
+http://s01.kafic.info:80/live?channelId=84&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="85" tvg-name="Cinemax 1" tvg-logo="http://esso.bossna-caffe.com/logos/cinemax-logo.png" group-title="Film & Serije",Cinemax 1 - Cinemax 1
+http://s01.kafic.info:80/live?channelId=85&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="86" tvg-name="Cinemax 2" tvg-logo="http://esso.bossna-caffe.com/logos/cinemax2-logo.png" group-title="Film & Serije",Cinemax 2 - Cinemax 2
+http://s01.kafic.info:80/live?channelId=86&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="446" tvg-name="M1 Film" tvg-logo="http://tvprofil.net/img/kanali-logo/m1film-logo.png" group-title="Film & Serije",M1 Film - M1 Film
+http://cms.kafic.info:80/live?channelId=446&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="1011" tvg-name="M1 Film Gold (Test)" tvg-logo="/noicon.png" group-title="Film & Serije",M1 Film Gold (Test) - M1 Film Gold (Test)
+http://s04.kafic.info:80/live?channelId=1011&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="870" tvg-name="FilmBox Extra" tvg-logo="/noicon.png" group-title="Film & Serije",FilmBox Extra - FilmBox Extra
+http://cms.kafic.info:80/live?channelId=870&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="909" tvg-name="FilmBox Plus (Test)" tvg-logo="/noicon.png" group-title="Film & Serije",FilmBox Plus (Test) - FilmBox Plus (Test)
+http://s02.kafic.info:80/live?channelId=909&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="912" tvg-name="CinePlus 1 (Test)" tvg-logo="/noicon.png" group-title="Film & Serije",CinePlus 1 (Test) - CinePlus 1 (Test)
+http://s02.kafic.info:80/live?channelId=912&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="1012" tvg-name="CinePlus 2 (Test)" tvg-logo="/noicon.png" group-title="Film & Serije",CinePlus 2 (Test) - CinePlus 2 (Test)
+http://s01.kafic.info:80/live?channelId=1012&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="44" tvg-name="Klasik TV" tvg-logo="http://i.imgur.com/KRMMN2i.jpg" group-title="Film & Serije",Klasik TV - Klasik TV
+http://cms.kafic.info:80/live?channelId=44&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="623" tvg-name="Film Klub" tvg-logo="http://i.imgur.com/GSEbT0S.jpg" group-title="Film & Serije",Film Klub - Film Klub
+http://cms.kafic.info:80/live?channelId=623&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="445" tvg-name="TV 1000" tvg-logo="/noicon.png" group-title="Film & Serije",TV 1000 - TV 1000
+http://s01.kafic.info:80/live?channelId=445&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="444" tvg-name="AXN" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/59/Axn_444_logo.png/revision/latest?cb=20140520122428" group-title="Film & Serije",AXN - AXN
+http://s01.kafic.info:80/live?channelId=444&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="87" tvg-name="FOX" tvg-logo="http://esso.bossna-caffe.com/logos/fox-logo.png" group-title="Film & Serije",FOX - FOX
+http://s01.kafic.info:80/live?channelId=87&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="88" tvg-name="FOX Movies" tvg-logo="http://esso.bossna-caffe.com/logos/fox-movies-logo.png" group-title="Film & Serije",FOX Movies - FOX Movies
+http://s01.kafic.info:80/live?channelId=88&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="89" tvg-name="FOX Life" tvg-logo="http://esso.bossna-caffe.com/logos/fox-life-logo.PNG" group-title="Film & Serije",FOX Life - FOX Life
+http://s01.kafic.info:80/live?channelId=89&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="90" tvg-name="FOX Crime" tvg-logo="http://esso.bossna-caffe.com/logos/fox-crime-logo.png" group-title="Film & Serije",FOX Crime - FOX Crime
+http://s01.kafic.info:80/live?channelId=90&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="91" tvg-name="Sci Fi" tvg-logo="http://esso.bossna-caffe.com/logos/sci-fi-logo.png" group-title="Film & Serije",Sci Fi - Sci Fi
+http://s01.kafic.info:80/live?channelId=91&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="92" tvg-name="***** Doku & Style *****" tvg-logo="https://logo.next-tv.ml/Discovery_Channel.png" group-title="Doku & style",***** Doku & Style ***** - ***** Doku & Style *****
+http://s04.kafic.info:80/live?channelId=92&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="93" tvg-name="National Geographic" tvg-logo="http://esso.bossna-caffe.com/logos/nat-geographic-logo.png" group-title="Doku & style",National Geographic - National Geographic
+http://s01.kafic.info:80/live?channelId=93&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="94" tvg-name="Discovery Channel" tvg-logo="http://nextgen-iptv.com/Logos/doc/discovery-channel-logo.png" group-title="Doku & style",Discovery Channel - Discovery Channel
+http://s01.kafic.info:80/live?channelId=94&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="95" tvg-name="History Channel" tvg-logo="http://esso.bossna-caffe.com/logos/history-logo.png" group-title="Doku & style",History Channel - History Channel
+http://s01.kafic.info:80/live?channelId=95&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="456" tvg-name="History Channel 2" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS4C6yUCCplQefNCV60kAGIhfVQCOErUvDMG5DhcF4rIqiJtpsal9RPFF2qw" group-title="Doku & style",History Channel 2 - History Channel 2
+http://cms.kafic.info:80/live?channelId=456&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="342" tvg-name="Viasat Explorer" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Viasat_explorer.png" group-title="Doku & style",Viasat Explorer - Viasat Explorer
+http://s03.kafic.info:80/live?channelId=342&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="343" tvg-name="Viasat History" tvg-logo="http://www.igreklik.com/slike/images/24231174995117104843.jpg" group-title="Doku & style",Viasat History - Viasat History
+http://s03.kafic.info:80/live?channelId=343&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="910" tvg-name="Da Vinci Learning (Test)" tvg-logo="/noicon.png" group-title="Doku & style",Da Vinci Learning (Test) - Da Vinci Learning (Test)
+http://s02.kafic.info:80/live?channelId=910&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="911" tvg-name="DocuBox (Test)" tvg-logo="/noicon.png" group-title="Doku & style",DocuBox (Test) - DocuBox (Test)
+http://s02.kafic.info:80/live?channelId=911&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="624" tvg-name="NatGeo Wild" tvg-logo="http://i.imgur.com/P3qUVj6.jpg" group-title="Doku & style",NatGeo Wild - NatGeo Wild
+http://cms.kafic.info:80/live?channelId=624&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="97" tvg-name="Animal Planet" tvg-logo="http://esso.bossna-caffe.com/logos/animal-planet-logo.PNG" group-title="Doku & style",Animal Planet - Animal Planet
+http://s01.kafic.info:80/live?channelId=97&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="96" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Discovery_ID.png" group-title="Doku & style",Investigation Discovery - Investigation Discovery
+http://s01.kafic.info:80/live?channelId=96&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="464" tvg-name="ID Xtra" tvg-logo="/noicon.png" group-title="Doku & style",ID Xtra - ID Xtra
+http://s04.kafic.info:80/live?channelId=464&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="98" tvg-name="E!" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkBktAKNcP9jMSIEfv7tgtEuF9UqUetcKv73grBXgW8lYmwsBOsxO2I2v6" group-title="Doku & style",E! - E!
+http://s01.kafic.info:80/live?channelId=98&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="100" tvg-name="TLC" tvg-logo="http://esso.bossna-caffe.com/logos/tlc-logo.png" group-title="Doku & style",TLC - TLC
+http://s01.kafic.info:80/live?channelId=100&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="455" tvg-name="Comedy Central Extra" tvg-logo="/noicon.png" group-title="Doku & style",Comedy Central Extra - Comedy Central Extra
+http://s04.kafic.info:80/live?channelId=455&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="99" tvg-name="24 Kitchen" tvg-logo="http://esso.bossna-caffe.com/logos/24-kitchen-logo.png" group-title="Doku & style",24 Kitchen - 24 Kitchen
+http://s01.kafic.info:80/live?channelId=99&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="101" tvg-name="Lov i Ribolov" tvg-logo="http://esso.bossna-caffe.com/logos/lov_i_ribolov.png" group-title="Doku & style",Lov i Ribolov - Lov i Ribolov
+http://s01.kafic.info:80/live?channelId=101&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="346" tvg-name="NASA TV" tvg-logo="http://www.igreklik.com/slike/images/18760289259354077242.png" group-title="Doku & style",NASA TV - NASA TV
+http://s03.kafic.info:80/live?channelId=346&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="102" tvg-name="MTV Adria" tvg-logo="http://img4.wikia.nocookie.net/__cb20100310170640/logopedia/images/0/0f/MTV_Hits_UK_2007.svg" group-title="Doku & style",MTV Adria - MTV Adria
+http://s01.kafic.info:80/live?channelId=102&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="103" tvg-name="MTV Dance" tvg-logo="http://esso.bossna-caffe.com/logos/mtv-dance-logo.png" group-title="Doku & style",MTV Dance - MTV Dance
+http://s01.kafic.info:80/live?channelId=103&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="104" tvg-name="VH1" tvg-logo="http://esso.bossna-caffe.com/logos/vh1-logo.png" group-title="Doku & style",VH1 - VH1
+http://s01.kafic.info:80/live?channelId=104&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="105" tvg-name="Vevo 1" tvg-logo="http://esso.bossna-caffe.com/logos/vevo.png" group-title="Doku & style",Vevo 1 - Vevo 1
+http://s01.kafic.info:80/live?channelId=105&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="106" tvg-name="Vevo 2" tvg-logo="http://esso.bossna-caffe.com/logos/vevo2.jpg" group-title="Doku & style",Vevo 2 - Vevo 2
+http://s01.kafic.info:80/live?channelId=106&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="349" tvg-name="Jugoton TV" tvg-logo="http://www.igreklik.com/slike/images/19093239267301682443.jpg" group-title="Doku & style",Jugoton TV - Jugoton TV
+http://s03.kafic.info:80/live?channelId=349&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="434" tvg-name="Top Music - Jata TV" tvg-logo="/noicon.png" group-title="Doku & style",Top Music - Jata TV - Top Music - Jata TV
+http://cms.kafic.info:80/live?channelId=434&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="115" tvg-name="***** Kids *****" tvg-logo="https://playpatches.files.wordpress.com/2012/02/kids-logo1.jpg" group-title="Kids",***** Kids ***** - ***** Kids *****
+http://s04.kafic.info:80/live?channelId=115&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="107" tvg-name="RTL Kockica" tvg-logo="http://esso.bossna-caffe.com/logos/rtl-kockica-logo.png" group-title="Kids",RTL Kockica - RTL Kockica
+http://s01.kafic.info:80/live?channelId=107&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="110" tvg-name="Nickelodeon" tvg-logo="http://esso.bossna-caffe.com/logos/nickelodeon-logo.png" group-title="Kids",Nickelodeon - Nickelodeon
+http://s01.kafic.info:80/live?channelId=110&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="463" tvg-name="Nick Jr." tvg-logo="/noicon.png" group-title="Kids",Nick Jr. - Nick Jr.
+http://s04.kafic.info:80/live?channelId=463&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="111" tvg-name="Mini TV" tvg-logo="http://esso.bossna-caffe.com/logos/minitv-logo.png" group-title="Kids",Mini TV - Mini TV
+http://s01.kafic.info:80/live?channelId=111&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="112" tvg-name="Minimax" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/6/6f/Minimax_TV.png" group-title="Kids",Minimax - Minimax
+http://s01.kafic.info:80/live?channelId=112&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="108" tvg-name="Hayatovci" tvg-logo="http://nextgen-iptv.com/Logos/kid/hayatovci-logo.png" group-title="Kids",Hayatovci - Hayatovci
+http://s01.kafic.info:80/live?channelId=108&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="69" tvg-name="Pink Kids" tvg-logo="http://i.imgur.com/DczokSl.jpg" group-title="Kids",Pink Kids - Pink Kids
+http://cms.kafic.info:80/live?channelId=69&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="450" tvg-name="Pink Super Kids" tvg-logo="http://tvprofil.net/img/kanali-logo/PinkSuperKids_logo.png" group-title="Kids",Pink Super Kids - Pink Super Kids
+http://s01.kafic.info:80/live?channelId=450&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="914" tvg-name="Ultra TV" tvg-logo="/noicon.png" group-title="Kids",Ultra TV - Ultra TV
+http://s02.kafic.info:80/live?channelId=914&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="114" tvg-name="Disney Channel UK" tvg-logo="http://esso.bossna-caffe.com/logos/disney_channel_global.png" group-title="Kids",Disney Channel UK - Disney Channel UK
+http://s01.kafic.info:80/live?channelId=114&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="116" tvg-name="Disney Jr. UK" tvg-logo="https://playpatches.files.wordpress.com/2012/02/kids-logo1.jpg" group-title="Kids",Disney Jr. UK - Disney Jr. UK
+http://s01.kafic.info:80/live?channelId=116&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="117" tvg-name="Disney XD" tvg-logo="https://playpatches.files.wordpress.com/2012/02/kids-logo1.jpg" group-title="Kids",Disney XD - Disney XD
+http://s01.kafic.info:80/live?channelId=117&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="118" tvg-name="Cartoon Network UK" tvg-logo="https://playpatches.files.wordpress.com/2012/02/kids-logo1.jpg" group-title="Kids",Cartoon Network UK - Cartoon Network UK
+http://s01.kafic.info:80/live?channelId=118&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="274" tvg-name="Kika DE" tvg-logo="http://www.igreklik.com/slike/images/08402132784983363246.jpg" group-title="Kids",Kika DE - Kika DE
+http://s03.kafic.info:80/live?channelId=274&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="272" tvg-name="Disney Cinemagic DE" tvg-logo="http://www.igreklik.com/slike/images/69707045527337050784.jpg" group-title="Kids",Disney Cinemagic DE - Disney Cinemagic DE
+http://s04.kafic.info:80/live?channelId=272&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="350" tvg-name="Baby TV" tvg-logo="http://www.igreklik.com/slike/images/27387835114191397399.jpg" group-title="Kids",Baby TV - Baby TV
+http://s03.kafic.info:80/live?channelId=350&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="119" tvg-name="***** Sport *****" tvg-logo="/noicon.png" group-title="Sport",***** Sport ***** - ***** Sport *****
+http://s04.kafic.info:80/live?channelId=119&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="120" tvg-name="Sport Klub 1 HR" tvg-logo="http://esso.bossna-caffe.com/logos/sk1-logo.png" group-title="Sport",Sport Klub 1 HR - Sport Klub 1 HR
+http://s01.kafic.info:80/live?channelId=120&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="121" tvg-name="Sport Klub 2 HR" tvg-logo="http://esso.bossna-caffe.com/logos/sk2-logo.png" group-title="Sport",Sport Klub 2 HR - Sport Klub 2 HR
+http://s01.kafic.info:80/live?channelId=121&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="122" tvg-name="Sport Klub 3 HR" tvg-logo="http://esso.bossna-caffe.com/logos/sk3-logo.png" group-title="Sport",Sport Klub 3 HR - Sport Klub 3 HR
+http://s01.kafic.info:80/live?channelId=122&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="123" tvg-name="Sport Klub 1" tvg-logo="http://nextgen-iptv.com/Logos/spo/sport_klub_1.png" group-title="Sport",Sport Klub 1 - Sport Klub 1
+http://s01.kafic.info:80/live?channelId=123&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="124" tvg-name="Sport Klub 2" tvg-logo="http://nextgen-iptv.com/Logos/spo/sport_klub_2.png" group-title="Sport",Sport Klub 2 - Sport Klub 2
+http://s01.kafic.info:80/live?channelId=124&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="125" tvg-name="Sport Klub 3" tvg-logo="http://nextgen-iptv.com/Logos/spo/sport_klub_3.png" group-title="Sport",Sport Klub 3 - Sport Klub 3
+http://s01.kafic.info:80/live?channelId=125&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="237" tvg-name="Sport Klub 4" tvg-logo="http://media.port-network.com/picture/instance_2/510897_2.jpg" group-title="Sport",Sport Klub 4 - Sport Klub 4
+http://cms.kafic.info:80/live?channelId=237&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="238" tvg-name="Sport Klub 5" tvg-logo="http://media.port-network.com/picture/instance_2/510898_2.jpg" group-title="Sport",Sport Klub 5 - Sport Klub 5
+http://cms.kafic.info:80/live?channelId=238&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="363" tvg-name="Sport Klub 6" tvg-logo="http://nextgen-iptv.com/Logos/spo/sk6.png" group-title="Sport",Sport Klub 6 - Sport Klub 6
+http://cms.kafic.info:80/live?channelId=363&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="126" tvg-name="Arena Sport 1 HR" tvg-logo="http://i.imgur.com/vqGWWPS.png" group-title="Sport",Arena Sport 1 HR - Arena Sport 1 HR
+http://cms.kafic.info:80/live?channelId=126&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="127" tvg-name="Arena Sport 2 HR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyDlypZFdgCXgPMI1HhB3i6kNjpF4ttJD8H_z1pCzrQwjvMMR" group-title="Sport",Arena Sport 2 HR - Arena Sport 2 HR
+http://cms.kafic.info:80/live?channelId=127&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="128" tvg-name="Arena Sport 3 HR" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnF_lK9sjTcfnSMvCtXil7DCV_Ml3AnAaHnT2ZBcLQSw44aaU-a-R-t098" group-title="Sport",Arena Sport 3 HR - Arena Sport 3 HR
+http://cms.kafic.info:80/live?channelId=128&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="129" tvg-name="Arena Sport 4 HR" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 4 HR - Arena Sport 4 HR
+http://cms.kafic.info:80/live?channelId=129&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="130" tvg-name="Arena Sport 5 HR" tvg-logo="http://3.bp.blogspot.com/-Upszy9QwXUU/VKZ67xTgpCI/AAAAAAAAAvI/EjiQ0rUBu88/s1600/7.jpg" group-title="Sport",Arena Sport 5 HR - Arena Sport 5 HR
+http://cms.kafic.info:80/live?channelId=130&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="131" tvg-name="Arena Sport 1" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport1_rs.png" group-title="Sport",Arena Sport 1 - Arena Sport 1
+http://cms.kafic.info:80/live?channelId=131&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="132" tvg-name="Arena Sport 2" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport2_rs.png" group-title="Sport",Arena Sport 2 - Arena Sport 2
+http://cms.kafic.info:80/live?channelId=132&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="133" tvg-name="Arena Sport 3" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport3_rs.png" group-title="Sport",Arena Sport 3 - Arena Sport 3
+http://cms.kafic.info:80/live?channelId=133&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="134" tvg-name="Arena Sport 4" tvg-logo="http://esso.bossna-caffe.com/logos/arenasport5_rs.png" group-title="Sport",Arena Sport 4 - Arena Sport 4
+http://cms.kafic.info:80/live?channelId=134&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="135" tvg-name="Arena Sport 5" tvg-logo="http://i.imgur.com/nm6eEeo.png" group-title="Sport",Arena Sport 5 - Arena Sport 5
+http://cms.kafic.info:80/live?channelId=135&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="915" tvg-name="Arena Sport 6" tvg-logo="/noicon.png" group-title="Sport",Arena Sport 6 - Arena Sport 6
+http://s03.kafic.info:80/live?channelId=915&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="136" tvg-name="Eurosport 1" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport-logo.png" group-title="Sport",Eurosport 1 - Eurosport 1
+http://s02.kafic.info:80/live?channelId=136&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="137" tvg-name="Eurosport 2" tvg-logo="http://esso.bossna-caffe.com/logos/eurosport2-logo.png" group-title="Sport",Eurosport 2 - Eurosport 2
+http://s02.kafic.info:80/live?channelId=137&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="138" tvg-name="Sky Sports 1 UK" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzAf4aQS8L2lNlFkoycS2VeaNzEAwWOIKryVBCBKXHIrr4ST0w89GdhVbo" group-title="Sport",Sky Sports 1 UK - Sky Sports 1 UK
+http://s02.kafic.info:80/live?channelId=138&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="139" tvg-name="Sky Sports 2 UK" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_it_sport2.png" group-title="Sport",Sky Sports 2 UK - Sky Sports 2 UK
+http://s02.kafic.info:80/live?channelId=139&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="140" tvg-name="Sky Sports 3 UK" tvg-logo="http://img2.wikia.nocookie.net/__cb20110206223105/logopedia/images/0/06/Sky_Sport_3_HD_Italy_2010.svg" group-title="Sport",Sky Sports 3 UK - Sky Sports 3 UK
+http://s02.kafic.info:80/live?channelId=140&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="141" tvg-name="Sky Sports 4 UK" tvg-logo="http://s25.postimg.org/dvmlvo5q7/sky_sports_4.png" group-title="Sport",Sky Sports 4 UK - Sky Sports 4 UK
+http://s02.kafic.info:80/live?channelId=141&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="368" tvg-name="Sky Sports 5 UK" tvg-logo="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201408121889.png" group-title="Sport",Sky Sports 5 UK - Sky Sports 5 UK
+http://s04.kafic.info:80/live?channelId=368&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="151" tvg-name="Sky Sports F1 UK" tvg-logo="https://pbs.twimg.com/profile_images/502483207267164160/wyV8wUFV.png" group-title="Sport",Sky Sports F1 UK - Sky Sports F1 UK
+http://s02.kafic.info:80/live?channelId=151&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="239" tvg-name="Sky Sport 1 IT" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/09/Sky-Sports-1-HD-1024x159.jpg" group-title="Sport",Sky Sport 1 IT - Sky Sport 1 IT
+http://s01.kafic.info:80/live?channelId=239&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="240" tvg-name="Sky Sport 2 IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2Lh_Mna8gZx-tnNEqQKDJt06xMuy7UQgsbVfcPub02zUZ-l2tg" group-title="Sport",Sky Sport 2 IT - Sky Sport 2 IT
+http://s01.kafic.info:80/live?channelId=240&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="241" tvg-name="Sky Sport 3 IT" tvg-logo="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png" group-title="Sport",Sky Sport 3 IT - Sky Sport 3 IT
+http://s01.kafic.info:80/live?channelId=241&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="242" tvg-name="Sky Sport F1 IT" tvg-logo="http://img2.wikia.nocookie.net/__cb20130902194359/logopedia/images/6/6c/Sky_Sport_F1_HD.JPG" group-title="Sport",Sky Sport F1 IT - Sky Sport F1 IT
+http://s01.kafic.info:80/live?channelId=242&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="152" tvg-name="BT Sport 1 UK" tvg-logo="http://shqipal.altervista.org/storage/tv/btsport1.png" group-title="Sport",BT Sport 1 UK - BT Sport 1 UK
+http://s02.kafic.info:80/live?channelId=152&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="153" tvg-name="BT Sport 2 UK" tvg-logo="http://sport.bt.com/images/bt-sport-2-logo-136381974821911201-130801120415.jpg" group-title="Sport",BT Sport 2 UK - BT Sport 2 UK
+http://s02.kafic.info:80/live?channelId=153&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="158" tvg-name="Sky Sport 1 DE" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmi88jQ0QhULCu8IuTqiC4xx5M9BRg6wh6Z9htq1pc7Y8ZhMXN1S4Qzuk" group-title="Sport",Sky Sport 1 DE - Sky Sport 1 DE
+http://s02.kafic.info:80/live?channelId=158&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="159" tvg-name="Sky Sport 2 DE" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbzv3Fodx0VzDJ6OVc3FYgJ0PZ2AQP2SI4puvJ8yN4bgV7K9Q8cA" group-title="Sport",Sky Sport 2 DE - Sky Sport 2 DE
+http://s02.kafic.info:80/live?channelId=159&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="192" tvg-name="Sky Fussball Bundesliga DE" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/1/15/Bundesliga_logo.svg/1161px-Bundesliga_logo.svg.png" group-title="Sport",Sky Fussball Bundesliga DE - Sky Fussball Bundesliga DE
+http://s02.kafic.info:80/live?channelId=192&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="142" tvg-name="Bein Sports 1" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/94/BE_IN_SPORT_1_HD_2013.jpg/revision/latest?cb=20140712174845" group-title="Sport",Bein Sports 1 - Bein Sports 1
+http://s02.kafic.info:80/live?channelId=142&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="143" tvg-name="Bein Sports 2" tvg-logo="http://esso.bossna-caffe.com/logos/BeIN_Sport_2_Indonesia.png" group-title="Sport",Bein Sports 2 - Bein Sports 2
+http://s02.kafic.info:80/live?channelId=143&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="144" tvg-name="Bein Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9GSFMIO7OZBQ49XKuecNIWHWf6ZB2VqZ2Gycu1iqLiXmTorLv" group-title="Sport",Bein Sports 3 - Bein Sports 3
+http://s02.kafic.info:80/live?channelId=144&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="145" tvg-name="Bein Sports 4" tvg-logo="http://esso.bossna-caffe.com/logos/Bein_4.png" group-title="Sport",Bein Sports 4 - Bein Sports 4
+http://s02.kafic.info:80/live?channelId=145&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="147" tvg-name="Bein Sports 5" tvg-logo="http://img1.wikia.nocookie.net/__cb20140414170307/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg" group-title="Sport",Bein Sports 5 - Bein Sports 5
+http://s02.kafic.info:80/live?channelId=147&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="146" tvg-name="Bein Sports 6" tvg-logo="http://i.imgur.com/ZJylMHK.png" group-title="Sport",Bein Sports 6 - Bein Sports 6
+http://s02.kafic.info:80/live?channelId=146&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="148" tvg-name="Bein Sports 7" tvg-logo="http://i.imgur.com/MH76e0P.png" group-title="Sport",Bein Sports 7 - Bein Sports 7
+http://s02.kafic.info:80/live?channelId=148&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 8" tvg-logo="http://i.imgur.com/GPhTGhr.jpg" group-title="Sport",Bein Sports 8 - Bein Sports 8
+http://s02.kafic.info:80/live?channelId=149&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="150" tvg-name="Bein Sports 9" tvg-logo="http://i.imgur.com/mW7vkF7.png" group-title="Sport",Bein Sports 9 - Bein Sports 9
+http://s02.kafic.info:80/live?channelId=150&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="154" tvg-name="FOX Sports 1 (Nl)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="Sport",FOX Sports 1 (Nl) - FOX Sports 1 (Nl)
+http://s02.kafic.info:80/live?channelId=154&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="155" tvg-name="FOX Sports 2 (Nl)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Sport",FOX Sports 2 (Nl) - FOX Sports 2 (Nl)
+http://s02.kafic.info:80/live?channelId=155&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="156" tvg-name="FOX Sports 3 (Nl)" tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/818_300.png" group-title="Sport",FOX Sports 3 (Nl) - FOX Sports 3 (Nl)
+http://s02.kafic.info:80/live?channelId=156&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="157" tvg-name="FOX Sports 4 (Nl)" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/fox-sports-4-colour.png" group-title="Sport",FOX Sports 4 (Nl) - FOX Sports 4 (Nl)
+http://s02.kafic.info:80/live?channelId=157&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="369" tvg-name="Digi Sport 1 (Ro)" tvg-logo="http://1.bp.blogspot.com/-7Lxnhk_bXMQ/UCdnpNqkX3I/AAAAAAAAIeE/0av9PPgR5uE/s1600/digi_sport1.png" group-title="Sport",Digi Sport 1 (Ro) - Digi Sport 1 (Ro)
+http://s04.kafic.info:80/live?channelId=369&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="370" tvg-name="Digi Sport 2 (Ro)" tvg-logo="http://4.bp.blogspot.com/-KUR-LjJdKhY/UCdn3Wko_QI/AAAAAAAAIeM/ivT0e5181jY/s1600/digi_sport2.png" group-title="Sport",Digi Sport 2 (Ro) - Digi Sport 2 (Ro)
+http://s04.kafic.info:80/live?channelId=370&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="371" tvg-name="Digi Sport 3 (Ro)" tvg-logo="https://itutorial.ro/wp-content/uploads/images-1.jpeg" group-title="Sport",Digi Sport 3 (Ro) - Digi Sport 3 (Ro)
+http://s04.kafic.info:80/live?channelId=371&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="268" tvg-name="ESPN UK" tvg-logo="http://www.igreklik.com/slike/images/85642516410465364325.jpg" group-title="Sport",ESPN UK - ESPN UK
+http://s04.kafic.info:80/live?channelId=268&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="270" tvg-name="CANAL+ Sport (Fr)" tvg-logo="http://www.igreklik.com/slike/images/25254366637431984681.jpg" group-title="Sport",CANAL+ Sport (Fr) - CANAL+ Sport (Fr)
+http://s04.kafic.info:80/live?channelId=270&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="271" tvg-name="Setanta Sports 1 UK" tvg-logo="http://www.igreklik.com/slike/images/41103219211728257797.jpg" group-title="Sport",Setanta Sports 1 UK - Setanta Sports 1 UK
+http://s01.kafic.info:80/live?channelId=271&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="160" tvg-name="Motors TV UK" tvg-logo="http://www.thematv.com/medias/channels/motors-tv/Logo_MotorsTV_baseline_UK.jpg" group-title="Sport",Motors TV UK - Motors TV UK
+http://s02.kafic.info:80/live?channelId=160&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="161" tvg-name="Fight Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fight_Channel_World_logo.png/176px-Fight_Channel_World_logo.png" group-title="Sport",Fight Channel - Fight Channel
+http://s02.kafic.info:80/live?channelId=161&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="162" tvg-name="Real Madrid TV (Spa)" tvg-logo="http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296" group-title="Sport",Real Madrid TV (Spa) - Real Madrid TV (Spa)
+http://s02.kafic.info:80/live?channelId=162&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="163" tvg-name="Barca TV (Spa)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="Sport",Barca TV (Spa) - Barca TV (Spa)
+http://s02.kafic.info:80/live?channelId=163&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="164" tvg-name="***** Deutsch *****" tvg-logo="http://www.kf-kosova.de/images/deutsch-logo.png" group-title="Deutsch",***** Deutsch ***** - ***** Deutsch *****
+http://s02.kafic.info:80/live?channelId=164&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="165" tvg-name="RTL DE" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtl_hd_de.png" group-title="Deutsch",RTL DE - RTL DE
+http://s02.kafic.info:80/live?channelId=165&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="166" tvg-name="RTL 2 DE" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgYgaD7jg8x0lTZYWPyz1NS3xqzTjImMrOLLMeo9rZMjIUkWIXsJSRL8U" group-title="Deutsch",RTL 2 DE - RTL 2 DE
+http://s02.kafic.info:80/live?channelId=166&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="167" tvg-name="Super RTL DE" tvg-logo="http://fernsehen-live-stream.com/uploads/posts/2014-04/1398034768_super-rtl-hd-logo.jpg" group-title="Deutsch",Super RTL DE - Super RTL DE
+http://s02.kafic.info:80/live?channelId=167&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="190" tvg-name="RTL Nitro DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/250px-RTL_Nitro_logo.svg.png" group-title="Deutsch",RTL Nitro DE - RTL Nitro DE
+http://s02.kafic.info:80/live?channelId=190&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="921" tvg-name="RTL Passion De" tvg-logo="/noicon.png" group-title="Deutsch",RTL Passion De - RTL Passion De
+http://s02.kafic.info:80/live?channelId=921&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="168" tvg-name="ProSieben DE" tvg-logo="http://www.kidszone.de/screenshots/418x627/2008/04/ProSieben-Logo_mit_Text.jpg" group-title="Deutsch",ProSieben DE - ProSieben DE
+http://s02.kafic.info:80/live?channelId=168&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="169" tvg-name="Sat.1 DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/archive/c/c8/20120329142914!Sat.1_HD_Logo.png" group-title="Deutsch",Sat.1 DE - Sat.1 DE
+http://s02.kafic.info:80/live?channelId=169&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="170" tvg-name="Kabel Eins DE" tvg-logo="http://i.imgur.com/xiHX88m.jpg" group-title="Deutsch",Kabel Eins DE - Kabel Eins DE
+http://s02.kafic.info:80/live?channelId=170&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="282" tvg-name="3sat DE" tvg-logo="http://i.imgur.com/qWaezrx.png" group-title="Deutsch",3sat DE - 3sat DE
+http://s04.kafic.info:80/live?channelId=282&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="171" tvg-name="VOX DE" tvg-logo="http://upload.wikimedia.org/wikipedia/de/thumb/e/ee/Vox-HD.svg/1000px-Vox-HD.svg.png" group-title="Deutsch",VOX DE - VOX DE
+http://s02.kafic.info:80/live?channelId=171&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="172" tvg-name="Arte DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Arte_HD_Verlauf_Logo.svg" group-title="Deutsch",Arte DE - Arte DE
+http://s02.kafic.info:80/live?channelId=172&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="362" tvg-name="Das Erste DE" tvg-logo="http://i.imgur.com/YMp1rvY.jpg" group-title="Deutsch",Das Erste DE - Das Erste DE
+http://s04.kafic.info:80/live?channelId=362&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="281" tvg-name="ZDF DE" tvg-logo="http://i.imgur.com/JBHdQxX.jpg" group-title="Deutsch",ZDF DE - ZDF DE
+http://s04.kafic.info:80/live?channelId=281&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="175" tvg-name="ORF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/200px-ORF_logo.svg.png" group-title="Deutsch",ORF 1 - ORF 1
+http://s02.kafic.info:80/live?channelId=175&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="176" tvg-name="ORF 2" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPFNrI1Rwsz11xqBv1rWcinbEIj--QB1dnqlDMwSnxyJIS7KkOjO3HGw" group-title="Deutsch",ORF 2 - ORF 2
+http://s02.kafic.info:80/live?channelId=176&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="276" tvg-name="Sixx DE" tvg-logo="http://i.imgur.com/Iv3ST0q.jpg" group-title="Deutsch",Sixx DE - Sixx DE
+http://s03.kafic.info:80/live?channelId=276&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="275" tvg-name="Phoenix DE" tvg-logo="http://i.imgur.com/PdMmYdM.png" group-title="Deutsch",Phoenix DE - Phoenix DE
+http://s03.kafic.info:80/live?channelId=275&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="173" tvg-name="FOX DE" tvg-logo="http://globalepix.com/wp-content/uploads/2013/10/logos_none-FOX_bwlogo_wtext_400.jpg" group-title="Deutsch",FOX DE - FOX DE
+http://s02.kafic.info:80/live?channelId=173&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="174" tvg-name="AXN DE" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c4/AXN_HD_logo.png/revision/latest?cb=20140520122642" group-title="Deutsch",AXN DE - AXN DE
+http://s02.kafic.info:80/live?channelId=174&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="177" tvg-name="Sky Cinema DE" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_de_cinema.png" group-title="Deutsch",Sky Cinema DE - Sky Cinema DE
+http://s02.kafic.info:80/live?channelId=177&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="178" tvg-name="Sky Cinema +24 DE" tvg-logo="https://www.sky.at/static/img/senderlogos_dark/448_sky_logo_skycinema24hd_tvguide.png" group-title="Deutsch",Sky Cinema +24 DE - Sky Cinema +24 DE
+http://s02.kafic.info:80/live?channelId=178&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="179" tvg-name="Sky Hits DE" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbYgMxWLuojDou8ejP1ei0l4vVPveijp58YnZIGi7hGsaRktvq" group-title="Deutsch",Sky Hits DE - Sky Hits DE
+http://s02.kafic.info:80/live?channelId=179&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="180" tvg-name="Sky Action DE" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_de_action_hd.png" group-title="Deutsch",Sky Action DE - Sky Action DE
+http://s02.kafic.info:80/live?channelId=180&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="181" tvg-name="Sky Comedy DE" tvg-logo="http://image1.tvdigital.de/files/station_logos/617.png" group-title="Deutsch",Sky Comedy DE - Sky Comedy DE
+http://s02.kafic.info:80/live?channelId=181&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="182" tvg-name="Sky Krimi DE" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRU9fHABTvlyh-chQzN2HhhUuiv7SusmM-sUl0dFerakc1bWvHoxt1r7I" group-title="Deutsch",Sky Krimi DE - Sky Krimi DE
+http://s02.kafic.info:80/live?channelId=182&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="279" tvg-name="Sky Emotion DE" tvg-logo="http://i.imgur.com/BiboVZJ.jpg" group-title="Deutsch",Sky Emotion DE - Sky Emotion DE
+http://s04.kafic.info:80/live?channelId=279&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="286" tvg-name="Sky Atlantic DE" tvg-logo="http://i.imgur.com/Fmb3idH.jpg" group-title="Deutsch",Sky Atlantic DE - Sky Atlantic DE
+http://s04.kafic.info:80/live?channelId=286&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="183" tvg-name="13th Street DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/13th_Street_Universal_HD.svg/495px-13th_Street_Universal_HD.svg.png" group-title="Deutsch",13th Street DE - 13th Street DE
+http://s02.kafic.info:80/live?channelId=183&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="184" tvg-name="TNT Film DE" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TNT_Film_HD_Logo.svg/1280px-TNT_Film_HD_Logo.svg.png" group-title="Deutsch",TNT Film DE - TNT Film DE
+http://s02.kafic.info:80/live?channelId=184&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="428" tvg-name="TNT Serie DE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Serie.svg.png" group-title="Deutsch",TNT Serie DE - TNT Serie DE
+http://s04.kafic.info:80/live?channelId=428&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="280" tvg-name="Syfy DE" tvg-logo="http://i.imgur.com/mwZRfMr.jpg" group-title="Deutsch",Syfy DE - Syfy DE
+http://s04.kafic.info:80/live?channelId=280&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="186" tvg-name="National Geographic DE" tvg-logo="http://www5.pbrc.hawaii.edu/pcrl/img/natgeo_logo.png" group-title="Deutsch",National Geographic DE - National Geographic DE
+http://s02.kafic.info:80/live?channelId=186&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="187" tvg-name="Nat Geo Wild DE" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/8/8f/Nat_Geo_Wild_Variante_Logo.svg/720px-Nat_Geo_Wild_Variante_Logo.svg.png" group-title="Deutsch",Nat Geo Wild DE - Nat Geo Wild DE
+http://s02.kafic.info:80/live?channelId=187&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="191" tvg-name="Discovery Channel DE" tvg-logo="http://img1.wikia.nocookie.net/__cb20091126085643/logopedia/images/d/d8/Discovery_Channel_HD_2007.png" group-title="Deutsch",Discovery Channel DE - Discovery Channel DE
+http://s02.kafic.info:80/live?channelId=191&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="188" tvg-name="History Channel DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="Deutsch",History Channel DE - History Channel DE
+http://s02.kafic.info:80/live?channelId=188&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="189" tvg-name="DMAX DE" tvg-logo="http://i714.photobucket.com/albums/ww144/robinsrl01/dmaxlogo3.jpg" group-title="Deutsch",DMAX DE - DMAX DE
+http://s02.kafic.info:80/live?channelId=189&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="351" tvg-name="Sky Select 1" tvg-logo="http://www.igreklik.com/slike/images/64155610193247318160.png" group-title="Deutsch",Sky Select 1 - Sky Select 1
+http://s03.kafic.info:80/live?channelId=351&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="352" tvg-name="Sky Select 2" tvg-logo="http://www.igreklik.com/slike/images/91081876485853713427.jpg" group-title="Deutsch",Sky Select 2 - Sky Select 2
+http://s03.kafic.info:80/live?channelId=352&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="353" tvg-name="Sky Select 3" tvg-logo="http://i.imgur.com/1ZMIfZk.jpg" group-title="Deutsch",Sky Select 3 - Sky Select 3
+http://s03.kafic.info:80/live?channelId=353&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="354" tvg-name="Sky Select 4" tvg-logo="http://i.imgur.com/d4KuLdu.jpg" group-title="Deutsch",Sky Select 4 - Sky Select 4
+http://s03.kafic.info:80/live?channelId=354&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="355" tvg-name="Sky Select 5" tvg-logo="http://i.imgur.com/TJvpYvg.jpg" group-title="Deutsch",Sky Select 5 - Sky Select 5
+http://s03.kafic.info:80/live?channelId=355&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="356" tvg-name="Sky Select 6" tvg-logo="http://i.imgur.com/d4KuLdu.jpg" group-title="Deutsch",Sky Select 6 - Sky Select 6
+http://s03.kafic.info:80/live?channelId=356&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="357" tvg-name="Sky Select 7" tvg-logo="http://i.imgur.com/d4KuLdu.jpg" group-title="Deutsch",Sky Select 7 - Sky Select 7
+http://s03.kafic.info:80/live?channelId=357&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="358" tvg-name="Sky Select 8" tvg-logo="http://i.imgur.com/d4KuLdu.jpg" group-title="Deutsch",Sky Select 8 - Sky Select 8
+http://s03.kafic.info:80/live?channelId=358&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="243" tvg-name="***** UK *****" tvg-logo="/noicon.png" group-title="International",***** UK ***** - ***** UK *****
+http://s04.kafic.info:80/live?channelId=243&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="244" tvg-name="BBC One UK" tvg-logo="http://i.imgur.com/zbXonpz.png" group-title="International",BBC One UK - BBC One UK
+http://s01.kafic.info:80/live?channelId=244&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="245" tvg-name="BBC Two UK" tvg-logo="http://i.imgur.com/zbXonpz.png" group-title="International",BBC Two UK - BBC Two UK
+http://s02.kafic.info:80/live?channelId=245&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="246" tvg-name="BBC Three UK" tvg-logo="http://i.imgur.com/zbXonpz.png" group-title="International",BBC Three UK - BBC Three UK
+http://s01.kafic.info:80/live?channelId=246&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="247" tvg-name="BBC Four UK" tvg-logo="http://i.imgur.com/zbXonpz.png" group-title="International",BBC Four UK - BBC Four UK
+http://s01.kafic.info:80/live?channelId=247&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="366" tvg-name="RTE One UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/250px-RT%C3%89_One_2014.svg.png" group-title="International",RTE One UK - RTE One UK
+http://s04.kafic.info:80/live?channelId=366&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="367" tvg-name="RTE Two UK" tvg-logo="http://vozplus.com/wp-content/uploads/rte_two.png" group-title="International",RTE Two UK - RTE Two UK
+http://s04.kafic.info:80/live?channelId=367&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="248" tvg-name="CNN" tvg-logo="http://i.imgur.com/QfHknmc.jpg" group-title="International",CNN - CNN
+http://s01.kafic.info:80/live?channelId=248&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="249" tvg-name="Sky News UK" tvg-logo="http://i.imgur.com/ojfhk0W.jpg" group-title="International",Sky News UK - Sky News UK
+http://s01.kafic.info:80/live?channelId=249&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="250" tvg-name="National Geographic Channel UK" tvg-logo="http://i.imgur.com/VHKdUbk.jpg" group-title="International",National Geographic Channel UK - National Geographic Channel UK
+http://s01.kafic.info:80/live?channelId=250&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="251" tvg-name="Nat Geo Wild UK" tvg-logo="http://i.imgur.com/LxmB9aH.jpg" group-title="International",Nat Geo Wild UK - Nat Geo Wild UK
+http://cms.kafic.info:80/live?channelId=251&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="252" tvg-name="Discovery Channel UK" tvg-logo="http://i.imgur.com/cuRbk5Y.png" group-title="International",Discovery Channel UK - Discovery Channel UK
+http://cms.kafic.info:80/live?channelId=252&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="253" tvg-name="Discovery Science UK" tvg-logo="http://i.imgur.com/jieYNai.jpg" group-title="International",Discovery Science UK - Discovery Science UK
+http://cms.kafic.info:80/live?channelId=253&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="254" tvg-name="Discovery Turbo UK" tvg-logo="http://i.imgur.com/MuTw5kg.jpg" group-title="International",Discovery Turbo UK - Discovery Turbo UK
+http://s01.kafic.info:80/live?channelId=254&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="255" tvg-name="Investigation Discovery UK" tvg-logo="http://www.lamac.org/res/channels/logos/_0037_investigation_discovery.png" group-title="International",Investigation Discovery UK - Investigation Discovery UK
+http://cms.kafic.info:80/live?channelId=255&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="256" tvg-name="Discovery History UK" tvg-logo="http://i.imgur.com/Uiy14tD.jpg" group-title="International",Discovery History UK - Discovery History UK
+http://cms.kafic.info:80/live?channelId=256&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="257" tvg-name="Sky Movies Action & Adventure UK" tvg-logo="http://i.imgur.com/eQNgB3K.jpg" group-title="International",Sky Movies Action & Adventure UK - Sky Movies Action & Adventure UK
+http://cms.kafic.info:80/live?channelId=257&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="258" tvg-name="Sky Movies Crime & Thriller UK" tvg-logo="http://i.imgur.com/xZ2CoDA.jpg" group-title="International",Sky Movies Crime & Thriller UK - Sky Movies Crime & Thriller UK
+http://s01.kafic.info:80/live?channelId=258&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="259" tvg-name="Sky Movies Comedy UK" tvg-logo="http://i.imgur.com/CHS5tqg.jpg" group-title="International",Sky Movies Comedy UK - Sky Movies Comedy UK
+http://s02.kafic.info:80/live?channelId=259&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="260" tvg-name="Sky Movies Sci-Fi & Horror UK" tvg-logo="http://i.imgur.com/bYImtRX.jpg" group-title="International",Sky Movies Sci-Fi & Horror UK - Sky Movies Sci-Fi & Horror UK
+http://s02.kafic.info:80/live?channelId=260&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="261" tvg-name="Sky Movies Premiere UK" tvg-logo="http://i.imgur.com/2eObPwQ.jpg" group-title="International",Sky Movies Premiere UK - Sky Movies Premiere UK
+http://s02.kafic.info:80/live?channelId=261&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="262" tvg-name="Sky Movies Family UK" tvg-logo="http://i.imgur.com/oDhkdpn.jpg" group-title="International",Sky Movies Family UK - Sky Movies Family UK
+http://s02.kafic.info:80/live?channelId=262&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="263" tvg-name="Sky Movies Drama & Romance UK" tvg-logo="http://i.imgur.com/bgyrFrP.jpg" group-title="International",Sky Movies Drama & Romance UK - Sky Movies Drama & Romance UK
+http://s02.kafic.info:80/live?channelId=263&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="264" tvg-name="Sky Movies Greats UK" tvg-logo="http://i.imgur.com/61VYCv6.png" group-title="International",Sky Movies Greats UK - Sky Movies Greats UK
+http://cms.kafic.info:80/live?channelId=264&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="265" tvg-name="Sky Movies Select UK" tvg-logo="http://www.igreklik.com/slike/images/60124023740209627774.jpg" group-title="International",Sky Movies Select UK - Sky Movies Select UK
+http://s01.kafic.info:80/live?channelId=265&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="266" tvg-name="Sky Movies Disney UK" tvg-logo="http://www.igreklik.com/slike/images/29780421607995340292.jpg" group-title="International",Sky Movies Disney UK - Sky Movies Disney UK
+http://s01.kafic.info:80/live?channelId=266&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="267" tvg-name="Sky Movies Showcase UK" tvg-logo="http://www.igreklik.com/slike/images/02269513668114812497.jpg" group-title="International",Sky Movies Showcase UK - Sky Movies Showcase UK
+http://s02.kafic.info:80/live?channelId=267&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="440" tvg-name="Sky Atlantic UK" tvg-logo="http://vignette3.wikia.nocookie.net/prisonbreak/images/8/84/Sky-atlantic-logo.jpg/revision/latest?cb=20110529133935" group-title="International",Sky Atlantic UK - Sky Atlantic UK
+http://s04.kafic.info:80/live?channelId=440&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="916" tvg-name="MGM HD DE" tvg-logo="/noicon.png" group-title="Deutsch",MGM HD DE - MGM HD DE
+http://s01.kafic.info:80/live?channelId=916&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="323" tvg-name="******ITALIAN******" tvg-logo="http://i.imgur.com/1rXzPRE.jpg" group-title="Italian",******ITALIAN****** - ******ITALIAN******
+http://s03.kafic.info:80/live?channelId=323&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="293" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rai_1_HD_Logo.svg/2000px-Rai_1_HD_Logo.svg.png" group-title="Italian",Rai 1 IT - Rai 1 IT
+http://s03.kafic.info:80/live?channelId=293&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="360" tvg-name="Rai 2 IT" tvg-logo="http://i.imgur.com/87LR054.png" group-title="Italian",Rai 2 IT - Rai 2 IT
+http://s03.kafic.info:80/live?channelId=360&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="361" tvg-name="Rai 3 IT" tvg-logo="http://i.imgur.com/dyxd0GL.jpg" group-title="Italian",Rai 3 IT - Rai 3 IT
+http://s03.kafic.info:80/live?channelId=361&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="620" tvg-name="Italia 1" tvg-logo="/noicon.png" group-title="Italian",Italia 1 - Italia 1
+http://s02.kafic.info:80/live?channelId=620&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="365" tvg-name="Canale 5 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Canale_5.svg/150px-Canale_5.svg.png" group-title="Italian",Canale 5 IT - Canale 5 IT
+http://s04.kafic.info:80/live?channelId=365&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="291" tvg-name="Sky Cinema IT" tvg-logo="http://i.imgur.com/7zyWR8M.jpg" group-title="Italian",Sky Cinema IT - Sky Cinema IT
+http://s04.kafic.info:80/live?channelId=291&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="302" tvg-name="Sky Cinema Max IT" tvg-logo="http://i.imgur.com/bC4ueH1.jpg" group-title="Italian",Sky Cinema Max IT - Sky Cinema Max IT
+http://s04.kafic.info:80/live?channelId=302&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="288" tvg-name="Sky Cinema Family IT" tvg-logo="http://cdn.blogosfere.it/pellicolerovinate/images/532px-Sky_Cinema_Family.svg.png" group-title="Italian",Sky Cinema Family IT - Sky Cinema Family IT
+http://s04.kafic.info:80/live?channelId=288&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="298" tvg-name="Sky Cinema Comedy IT" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b6/Sky_Comedy.png/revision/latest?cb=20130719155702" group-title="Italian",Sky Cinema Comedy IT - Sky Cinema Comedy IT
+http://s04.kafic.info:80/live?channelId=298&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="294" tvg-name="Sky Cinema Cult IT" tvg-logo="http://presentationarchive.com/skycinema/cinemacult-f.jpg" group-title="Italian",Sky Cinema Cult IT - Sky Cinema Cult IT
+http://s03.kafic.info:80/live?channelId=294&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="295" tvg-name="Sky Atlantic IT" tvg-logo="http://www.digital-news.it/files-admin/Simone/sky-atlantic-hd-logo.jpg" group-title="Italian",Sky Atlantic IT - Sky Atlantic IT
+http://s03.kafic.info:80/live?channelId=295&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="300" tvg-name="Premium Cinema 2 IT" tvg-logo="http://www.mediasetpremium.it/bin/3.$plit/C_54_articolo_3858_imgarticolo.jpg" group-title="Italian",Premium Cinema 2 IT - Premium Cinema 2 IT
+http://s04.kafic.info:80/live?channelId=300&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="304" tvg-name="Premium Action IT" tvg-logo="http://i.imgur.com/QYFgWll.jpg" group-title="Italian",Premium Action IT - Premium Action IT
+http://s04.kafic.info:80/live?channelId=304&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="303" tvg-name="Premium Crime IT" tvg-logo="http://i.imgur.com/q0I0Qcj.jpg" group-title="Italian",Premium Crime IT - Premium Crime IT
+http://s04.kafic.info:80/live?channelId=303&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="299" tvg-name="Premium JOI IT" tvg-logo="http://static.televisionando.it/625X0/www/televisionando/it/img/joi-mediaset-premium.jpg" group-title="Italian",Premium JOI IT - Premium JOI IT
+http://s04.kafic.info:80/live?channelId=299&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="296" tvg-name="Premium Sport IT" tvg-logo="http://img.mediaset.it/bin/10.$plit/C_116_canali_36_upiLogo.jpg" group-title="Italian",Premium Sport IT - Premium Sport IT
+http://s03.kafic.info:80/live?channelId=296&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="292" tvg-name="RSI La1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/220px-RSI_La_1_2012.svg.png" group-title="Italian",RSI La1 IT - RSI La1 IT
+http://s04.kafic.info:80/live?channelId=292&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="359" tvg-name="National Geographic IT" tvg-logo="http://i.imgur.com/uz1zXFg.jpg" group-title="Italian",National Geographic IT - National Geographic IT
+http://s03.kafic.info:80/live?channelId=359&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="319" tvg-name="History Channel IT" tvg-logo="http://i.imgur.com/kVCToJ0.jpg" group-title="Italian",History Channel IT - History Channel IT
+http://s04.kafic.info:80/live?channelId=319&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="320" tvg-name="Discovery Channel IT" tvg-logo="http://i.imgur.com/fPScOSv.jpg" group-title="Italian",Discovery Channel IT - Discovery Channel IT
+http://s04.kafic.info:80/live?channelId=320&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="321" tvg-name="Discovery World IT" tvg-logo="http://i.imgur.com/NflXaNo.jpg" group-title="Italian",Discovery World IT - Discovery World IT
+http://s04.kafic.info:80/live?channelId=321&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="289" tvg-name="Nat Geo Wild IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/200px-Logo_Nat_Geo_Wild.svg.png" group-title="Italian",Nat Geo Wild IT - Nat Geo Wild IT
+http://s04.kafic.info:80/live?channelId=289&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="322" tvg-name="DMAX IT" tvg-logo="http://i.imgur.com/pE7yxcS.png" group-title="Italian",DMAX IT - DMAX IT
+http://s04.kafic.info:80/live?channelId=322&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="290" tvg-name="Disney XD IT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/DisneyChannel1997.png" group-title="Italian",Disney XD IT - Disney XD IT
+http://s04.kafic.info:80/live?channelId=290&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="316" tvg-name="Disney Jr. IT" tvg-logo="http://i.imgur.com/cLqkDis.jpg" group-title="Italian",Disney Jr. IT - Disney Jr. IT
+http://s04.kafic.info:80/live?channelId=316&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="651" tvg-name="RAI YoYo" tvg-logo="http://i.imgur.com/7ATphCl.jpg" group-title="Italian",RAI YoYo - RAI YoYo
+http://s03.kafic.info:80/live?channelId=651&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="318" tvg-name="Cartoon Network IT" tvg-logo="http://i.imgur.com/na51n2V.jpg" group-title="Italian",Cartoon Network IT - Cartoon Network IT
+http://s04.kafic.info:80/live?channelId=318&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="313" tvg-name="Sky Sport 24 IT" tvg-logo="http://i.imgur.com/QPMDYp6.jpg" group-title="Italian",Sky Sport 24 IT - Sky Sport 24 IT
+http://s04.kafic.info:80/live?channelId=313&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="301" tvg-name="Premium Calcio IT" tvg-logo="http://img.mediaset.it/bin/36.$plit/C_116_canali_35_upiLogo.jpg" group-title="Italian",Premium Calcio IT - Premium Calcio IT
+http://s04.kafic.info:80/live?channelId=301&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="311" tvg-name="Sky Super Calcio IT" tvg-logo="http://i.imgur.com/0lcLgCP.png" group-title="Italian",Sky Super Calcio IT - Sky Super Calcio IT
+http://s04.kafic.info:80/live?channelId=311&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="853" tvg-name="***** France Test *****" tvg-logo="/noicon.png" group-title="France",***** France Test ***** - ***** France Test *****
+http://cms.kafic.info:80/live?channelId=853&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="865" tvg-name="France 2 (Fr)" tvg-logo="http://www.igreklik.com/slike/images/78317299967214835699.jpg" group-title="France",France 2 (Fr) - France 2 (Fr)
+http://cms.kafic.info:80/live?channelId=865&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="866" tvg-name="France 3 (Fr)" tvg-logo="/noicon.png" group-title="France",France 3 (Fr) - France 3 (Fr)
+http://cms.kafic.info:80/live?channelId=866&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="868" tvg-name="CANAL+ Family (Fr)" tvg-logo="http://i.imgur.com/Xa0OSIH.jpg" group-title="France",CANAL+ Family (Fr) - CANAL+ Family (Fr)
+http://cms.kafic.info:80/live?channelId=868&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="854" tvg-name="TF1 (Fr)" tvg-logo="http://i.imgur.com/NZeMuAK.jpg" group-title="France",TF1 (Fr) - TF1 (Fr)
+http://cms.kafic.info:80/live?channelId=854&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="862" tvg-name="AB1 (Fr)" tvg-logo="/noicon.png" group-title="France",AB1 (Fr) - AB1 (Fr)
+http://cms.kafic.info:80/live?channelId=862&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="856" tvg-name="RTL9 (Fr)" tvg-logo="/noicon.png" group-title="France",RTL9 (Fr) - RTL9 (Fr)
+http://cms.kafic.info:80/live?channelId=856&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="855" tvg-name="M6 (Fr)" tvg-logo="/noicon.png" group-title="France",M6 (Fr) - M6 (Fr)
+http://cms.kafic.info:80/live?channelId=855&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="861" tvg-name="TMC (Fr)" tvg-logo="/noicon.png" group-title="France",TMC (Fr) - TMC (Fr)
+http://cms.kafic.info:80/live?channelId=861&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="864" tvg-name="CANAL+ (Fr)" tvg-logo="/noicon.png" group-title="France",CANAL+ (Fr) - CANAL+ (Fr)
+http://cms.kafic.info:80/live?channelId=864&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="857" tvg-name="CANAL+ Cinéma (Fr)" tvg-logo="/noicon.png" group-title="France",CANAL+ Cinéma (Fr) - CANAL+ Cinéma (Fr)
+http://s6.kafic.info:80/live?channelId=857&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="867" tvg-name="CANAL+ Décalé (Fr)" tvg-logo="/noicon.png" group-title="France",CANAL+ Décalé (Fr) - CANAL+ Décalé (Fr)
+http://cms.kafic.info:80/live?channelId=867&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="863" tvg-name="Cine+ Frisson (Fr)" tvg-logo="/noicon.png" group-title="France",Cine+ Frisson (Fr) - Cine+ Frisson (Fr)
+http://cms.kafic.info:80/live?channelId=863&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="859" tvg-name="Discovery Channel (Fr)" tvg-logo="/noicon.png" group-title="France",Discovery Channel (Fr) - Discovery Channel (Fr)
+http://cms.kafic.info:80/live?channelId=859&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="860" tvg-name="National Geographic (Fr)" tvg-logo="/noicon.png" group-title="France",National Geographic (Fr) - National Geographic (Fr)
+http://cms.kafic.info:80/live?channelId=860&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="858" tvg-name="Eurosport 1 (Fr)" tvg-logo="/noicon.png" group-title="France",Eurosport 1 (Fr) - Eurosport 1 (Fr)
+http://cms.kafic.info:80/live?channelId=858&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="327" tvg-name="***** Turk *****" tvg-logo="http://www.igreklik.com/slike/images/39319119106967456659.png" group-title="Turkey",***** Turk ***** - ***** Turk *****
+http://s03.kafic.info:80/live?channelId=327&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="328" tvg-name="TRT" tvg-logo="http://i.imgur.com/7dYfK2q.jpg" group-title="Turkey",TRT - TRT
+http://s03.kafic.info:80/live?channelId=328&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="329" tvg-name="CNN Turk" tvg-logo="http://i.imgur.com/09DZ2BB.jpg" group-title="Turkey",CNN Turk - CNN Turk
+http://s03.kafic.info:80/live?channelId=329&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="330" tvg-name="ATV TR" tvg-logo="http://www.igreklik.com/slike/images/01930666423159609014.png" group-title="Turkey",ATV TR - ATV TR
+http://s03.kafic.info:80/live?channelId=330&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="331" tvg-name="NTV TR" tvg-logo="http://www.igreklik.com/slike/images/18264103733630605889.png" group-title="Turkey",NTV TR - NTV TR
+http://s03.kafic.info:80/live?channelId=331&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="332" tvg-name="Kral TR" tvg-logo="http://i.imgur.com/GoRT8wW.jpg" group-title="Turkey",Kral TR - Kral TR
+http://s03.kafic.info:80/live?channelId=332&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="333" tvg-name="Kanal D TR" tvg-logo="http://www.igreklik.com/slike/images/60461849223498933769.jpg" group-title="Turkey",Kanal D TR - Kanal D TR
+http://s03.kafic.info:80/live?channelId=333&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="334" tvg-name="Dream Turk" tvg-logo="http://i.imgur.com/QMUnbrV.jpg" group-title="Turkey",Dream Turk - Dream Turk
+http://cms.kafic.info:80/live?channelId=334&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="335" tvg-name="Haber TR" tvg-logo="http://www.igreklik.com/slike/images/02510965664203566520.png" group-title="Turkey",Haber TR - Haber TR
+http://s03.kafic.info:80/live?channelId=335&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="336" tvg-name="Star TV" tvg-logo="http://www.igreklik.com/slike/images/14103076578973458723.jpg" group-title="Turkey",Star TV - Star TV
+http://s03.kafic.info:80/live?channelId=336&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="337" tvg-name="Show TV" tvg-logo="http://www.igreklik.com/slike/images/85997277745861095091.jpg" group-title="Turkey",Show TV - Show TV
+http://s03.kafic.info:80/live?channelId=337&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="429" tvg-name="TV 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="Turkey",TV 8 - TV 8
+http://s04.kafic.info:80/live?channelId=429&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="441" tvg-name="Beyaz TV" tvg-logo="/noicon.png" group-title="Turkey",Beyaz TV - Beyaz TV
+http://s04.kafic.info:80/live?channelId=441&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="338" tvg-name="Lig TV 1 (Tr)" tvg-logo="http://www.igreklik.com/slike/images/54284742612470944867.jpg" group-title="Turkey",Lig TV 1 (Tr) - Lig TV 1 (Tr)
+http://s03.kafic.info:80/live?channelId=338&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="339" tvg-name="Lig TV 2 (Tr)" tvg-logo="http://www.igreklik.com/slike/images/23889695999653848670.jpg" group-title="Turkey",Lig TV 2 (Tr) - Lig TV 2 (Tr)
+http://s03.kafic.info:80/live?channelId=339&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="340" tvg-name="Lig TV 3 (Tr)" tvg-logo="http://www.igreklik.com/slike/images/68341958136652808025.jpg" group-title="Turkey",Lig TV 3 (Tr) - Lig TV 3 (Tr)
+http://s03.kafic.info:80/live?channelId=340&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="376" tvg-name="***** Albanian *****" tvg-logo="/noicon.png" group-title="Albanian",***** Albanian ***** - ***** Albanian *****
+http://s03.kafic.info:80/live?channelId=376&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="377" tvg-name="Top Chanel" tvg-logo="http://i.imgur.com/AFccltB.png" group-title="Albanian",Top Chanel - Top Chanel
+http://s03.kafic.info:80/live?channelId=377&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="378" tvg-name="Top News" tvg-logo="http://i.imgur.com/Yww7NIK.png" group-title="Albanian",Top News - Top News
+http://s03.kafic.info:80/live?channelId=378&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="379" tvg-name="ABC News" tvg-logo="http://i.imgur.com/SzWt19v.jpg" group-title="Albanian",ABC News - ABC News
+http://s03.kafic.info:80/live?channelId=379&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="380" tvg-name="Klan" tvg-logo="http://i.imgur.com/T2muEUq.png" group-title="Albanian",Klan - Klan
+http://s03.kafic.info:80/live?channelId=380&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="381" tvg-name="Klan Kosova" tvg-logo="/noicon.png" group-title="Albanian",Klan Kosova - Klan Kosova
+http://s03.kafic.info:80/live?channelId=381&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="382" tvg-name="TVSH" tvg-logo="/noicon.png" group-title="Albanian",TVSH - TVSH
+http://s03.kafic.info:80/live?channelId=382&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="383" tvg-name="Explorer Shkence" tvg-logo="/noicon.png" group-title="Albanian",Explorer Shkence - Explorer Shkence
+http://s03.kafic.info:80/live?channelId=383&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="384" tvg-name="Explorer Histori" tvg-logo="/noicon.png" group-title="Albanian",Explorer Histori - Explorer Histori
+http://s03.kafic.info:80/live?channelId=384&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="385" tvg-name="Explorer Natyra" tvg-logo="/noicon.png" group-title="Albanian",Explorer Natyra - Explorer Natyra
+http://s03.kafic.info:80/live?channelId=385&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="386" tvg-name="Film Autor" tvg-logo="/noicon.png" group-title="Albanian",Film Autor - Film Autor
+http://s03.kafic.info:80/live?channelId=386&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="387" tvg-name="Film Hits" tvg-logo="/noicon.png" group-title="Albanian",Film Hits - Film Hits
+http://s03.kafic.info:80/live?channelId=387&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="388" tvg-name="Film Thriller" tvg-logo="/noicon.png" group-title="Albanian",Film Thriller - Film Thriller
+http://s03.kafic.info:80/live?channelId=388&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="389" tvg-name="Film Drame" tvg-logo="/noicon.png" group-title="Albanian",Film Drame - Film Drame
+http://s03.kafic.info:80/live?channelId=389&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="390" tvg-name="Film Aksion" tvg-logo="/noicon.png" group-title="Albanian",Film Aksion - Film Aksion
+http://s03.kafic.info:80/live?channelId=390&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="391" tvg-name="Film Komedi" tvg-logo="/noicon.png" group-title="Albanian",Film Komedi - Film Komedi
+http://s03.kafic.info:80/live?channelId=391&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="392" tvg-name="Film Nje" tvg-logo="/noicon.png" group-title="Albanian",Film Nje - Film Nje
+http://s03.kafic.info:80/live?channelId=392&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="393" tvg-name="Film Dy" tvg-logo="/noicon.png" group-title="Albanian",Film Dy - Film Dy
+http://s03.kafic.info:80/live?channelId=393&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="453" tvg-name="Digi Gold" tvg-logo="/noicon.png" group-title="Albanian",Digi Gold - Digi Gold
+http://s04.kafic.info:80/live?channelId=453&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="394" tvg-name="SuperSport 1" tvg-logo="/noicon.png" group-title="Albanian",SuperSport 1 - SuperSport 1
+http://s03.kafic.info:80/live?channelId=394&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="395" tvg-name="SuperSport 2" tvg-logo="/noicon.png" group-title="Albanian",SuperSport 2 - SuperSport 2
+http://s03.kafic.info:80/live?channelId=395&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="396" tvg-name="SuperSport 3" tvg-logo="/noicon.png" group-title="Albanian",SuperSport 3 - SuperSport 3
+http://s03.kafic.info:80/live?channelId=396&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="397" tvg-name="SuperSport 4" tvg-logo="/noicon.png" group-title="Albanian",SuperSport 4 - SuperSport 4
+http://s03.kafic.info:80/live?channelId=397&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="398" tvg-name="Bang Bang" tvg-logo="/noicon.png" group-title="Albanian",Bang Bang - Bang Bang
+http://s03.kafic.info:80/live?channelId=398&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="399" tvg-name="Cufo" tvg-logo="/noicon.png" group-title="Albanian",Cufo - Cufo
+http://s03.kafic.info:80/live?channelId=399&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="400" tvg-name="Digitalb Junior" tvg-logo="/noicon.png" group-title="Albanian",Digitalb Junior - Digitalb Junior
+http://s03.kafic.info:80/live?channelId=400&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="401" tvg-name="Vizion Plus" tvg-logo="/noicon.png" group-title="Albanian",Vizion Plus - Vizion Plus
+http://s03.kafic.info:80/live?channelId=401&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="402" tvg-name="KTV" tvg-logo="/noicon.png" group-title="Albanian",KTV - KTV
+http://s03.kafic.info:80/live?channelId=402&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="403" tvg-name="RTV 21" tvg-logo="/noicon.png" group-title="Albanian",RTV 21 - RTV 21
+http://s03.kafic.info:80/live?channelId=403&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="452" tvg-name="RTV 21 Plus" tvg-logo="/noicon.png" group-title="Albanian",RTV 21 Plus - RTV 21 Plus
+http://s04.kafic.info:80/live?channelId=452&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="404" tvg-name="RTV 21 Popullore" tvg-logo="/noicon.png" group-title="Albanian",RTV 21 Popullore - RTV 21 Popullore
+http://s03.kafic.info:80/live?channelId=404&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="405" tvg-name="RTK" tvg-logo="/noicon.png" group-title="Albanian",RTK - RTK
+http://s03.kafic.info:80/live?channelId=405&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="406" tvg-name="Tring Shqip" tvg-logo="/noicon.png" group-title="Albanian",Tring Shqip - Tring Shqip
+http://s03.kafic.info:80/live?channelId=406&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="407" tvg-name="3 Plus" tvg-logo="/noicon.png" group-title="Albanian",3 Plus - 3 Plus
+http://s03.kafic.info:80/live?channelId=407&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="409" tvg-name="Tring Super" tvg-logo="/noicon.png" group-title="Albanian",Tring Super - Tring Super
+http://s03.kafic.info:80/live?channelId=409&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="410" tvg-name="Tring MAX" tvg-logo="/noicon.png" group-title="Albanian",Tring MAX - Tring MAX
+http://s03.kafic.info:80/live?channelId=410&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="411" tvg-name="Tring Life" tvg-logo="/noicon.png" group-title="Albanian",Tring Life - Tring Life
+http://s03.kafic.info:80/live?channelId=411&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="412" tvg-name="Tring Comedy" tvg-logo="/noicon.png" group-title="Albanian",Tring Comedy - Tring Comedy
+http://s03.kafic.info:80/live?channelId=412&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="413" tvg-name="Tring Fantasy" tvg-logo="/noicon.png" group-title="Albanian",Tring Fantasy - Tring Fantasy
+http://s03.kafic.info:80/live?channelId=413&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="414" tvg-name="Tring History" tvg-logo="/noicon.png" group-title="Albanian",Tring History - Tring History
+http://s03.kafic.info:80/live?channelId=414&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="415" tvg-name="Tring Planet" tvg-logo="/noicon.png" group-title="Albanian",Tring Planet - Tring Planet
+http://s03.kafic.info:80/live?channelId=415&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="416" tvg-name="Tring World" tvg-logo="/noicon.png" group-title="Albanian",Tring World - Tring World
+http://s03.kafic.info:80/live?channelId=416&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="418" tvg-name="Elrodi TV" tvg-logo="/noicon.png" group-title="Albanian",Elrodi TV - Elrodi TV
+http://s04.kafic.info:80/live?channelId=418&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="419" tvg-name="Folk +" tvg-logo="/noicon.png" group-title="Albanian",Folk + - Folk +
+http://s04.kafic.info:80/live?channelId=419&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="420" tvg-name="Tring Sport 1" tvg-logo="/noicon.png" group-title="Albanian",Tring Sport 1 - Tring Sport 1
+http://s04.kafic.info:80/live?channelId=420&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="421" tvg-name="Tring Sport 2" tvg-logo="/noicon.png" group-title="Albanian",Tring Sport 2 - Tring Sport 2
+http://s04.kafic.info:80/live?channelId=421&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="422" tvg-name="Tring Sport 3" tvg-logo="/noicon.png" group-title="Albanian",Tring Sport 3 - Tring Sport 3
+http://s04.kafic.info:80/live?channelId=422&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="423" tvg-name="Tring Sport 4" tvg-logo="/noicon.png" group-title="Albanian",Tring Sport 4 - Tring Sport 4
+http://s04.kafic.info:80/live?channelId=423&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="424" tvg-name="Tring Tring" tvg-logo="/noicon.png" group-title="Albanian",Tring Tring - Tring Tring
+http://s04.kafic.info:80/live?channelId=424&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="425" tvg-name="Tip TV" tvg-logo="/noicon.png" group-title="Albanian",Tip TV - Tip TV
+http://s04.kafic.info:80/live?channelId=425&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="878" tvg-name="***** Scandinavia Test*****" tvg-logo="http://i.imgur.com/9PUmQlC.jpg" group-title="Scandinavia",***** Scandinavia Test***** - ***** Scandinavia Test*****
+http://cms.kafic.info:80/live?channelId=878&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="877" tvg-name="SVT 1" tvg-logo="http://i.imgur.com/xrLti9b.png" group-title="Scandinavia",SVT 1 - SVT 1
+http://cms.kafic.info:80/live?channelId=877&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="879" tvg-name="SVT 2" tvg-logo="http://i.imgur.com/X4zlXcB.png" group-title="Scandinavia",SVT 2 - SVT 2
+http://cms.kafic.info:80/live?channelId=879&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="880" tvg-name="TV 4" tvg-logo="http://i.imgur.com/xFhSLL1.jpg" group-title="Scandinavia",TV 4 - TV 4
+http://cms.kafic.info:80/live?channelId=880&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="881" tvg-name="TV 4 Film" tvg-logo="http://i.imgur.com/6xUprJb.jpg" group-title="Scandinavia",TV 4 Film - TV 4 Film
+http://cms.kafic.info:80/live?channelId=881&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="882" tvg-name="TV 4 Komedi" tvg-logo="http://i.imgur.com/WgoQgHU.png" group-title="Scandinavia",TV 4 Komedi - TV 4 Komedi
+http://cms.kafic.info:80/live?channelId=882&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="884" tvg-name="TV 4 Fakta" tvg-logo="http://i.imgur.com/4rZpaVl.jpg" group-title="Scandinavia",TV 4 Fakta - TV 4 Fakta
+http://cms.kafic.info:80/live?channelId=884&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="883" tvg-name="TV 4 Guld" tvg-logo="http://i.imgur.com/OttRMGI.jpg" group-title="Scandinavia",TV 4 Guld - TV 4 Guld
+http://cms.kafic.info:80/live?channelId=883&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="885" tvg-name="TV 4 Sport" tvg-logo="http://i.imgur.com/q0KooP6.jpg" group-title="Scandinavia",TV 4 Sport - TV 4 Sport
+http://cms.kafic.info:80/live?channelId=885&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="886" tvg-name="TV 6" tvg-logo="http://i.imgur.com/WkdCI0t.png" group-title="Scandinavia",TV 6 - TV 6
+http://cms.kafic.info:80/live?channelId=886&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="887" tvg-name="TV 10" tvg-logo="http://i.imgur.com/NoFqtrs.jpg" group-title="Scandinavia",TV 10 - TV 10
+http://cms.kafic.info:80/live?channelId=887&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="888" tvg-name="Viasat Premiere" tvg-logo="http://i.imgur.com/6rd33ug.png" group-title="Scandinavia",Viasat Premiere - Viasat Premiere
+http://cms.kafic.info:80/live?channelId=888&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="890" tvg-name="Viasat Hits" tvg-logo="http://i.imgur.com/E7Yi1d3.jpg" group-title="Scandinavia",Viasat Hits - Viasat Hits
+http://cms.kafic.info:80/live?channelId=890&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="889" tvg-name="Viasat Comedy" tvg-logo="http://i.imgur.com/3TRE7hv.png" group-title="Scandinavia",Viasat Comedy - Viasat Comedy
+http://cms.kafic.info:80/live?channelId=889&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="891" tvg-name="Viasat Sport" tvg-logo="http://i.imgur.com/lT7sXcU.png" group-title="Scandinavia",Viasat Sport - Viasat Sport
+http://cms.kafic.info:80/live?channelId=891&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="893" tvg-name="Viasat Fotball" tvg-logo="http://i.imgur.com/ChhAWqC.jpg" group-title="Scandinavia",Viasat Fotball - Viasat Fotball
+http://cms.kafic.info:80/live?channelId=893&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="892" tvg-name="Viasat Hockey" tvg-logo="http://i.imgur.com/rdbMmo3.png" group-title="Scandinavia",Viasat Hockey - Viasat Hockey
+http://cms.kafic.info:80/live?channelId=892&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="896" tvg-name="C More First" tvg-logo="http://i.imgur.com/K09pb6Z.png" group-title="Scandinavia",C More First - C More First
+http://cms.kafic.info:80/live?channelId=896&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="894" tvg-name="C More Action" tvg-logo="http://i.imgur.com/ANN9jsC.jpg" group-title="Scandinavia",C More Action - C More Action
+http://cms.kafic.info:80/live?channelId=894&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="895" tvg-name="C More Hits" tvg-logo="http://i.imgur.com/NJeNc56.jpg" group-title="Scandinavia",C More Hits - C More Hits
+http://cms.kafic.info:80/live?channelId=895&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="898" tvg-name="C More Emotion" tvg-logo="http://i.imgur.com/E39zqvq.png" group-title="Scandinavia",C More Emotion - C More Emotion
+http://cms.kafic.info:80/live?channelId=898&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="897" tvg-name="C More Series" tvg-logo="http://i.imgur.com/0DePjdi.png" group-title="Scandinavia",C More Series - C More Series
+http://cms.kafic.info:80/live?channelId=897&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="899" tvg-name="C More Fotboll" tvg-logo="http://i.imgur.com/hG972U9.jpg" group-title="Scandinavia",C More Fotboll - C More Fotboll
+
+
+
+http://s02.kafic.info:80/live?channelId=221&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="924" tvg-name="***** Videoteka *****" tvg-logo="/noicon.png" group-title="Videoteka",***** Videoteka ***** - ***** Videoteka *****
+http://s6.kafic.info:80/live?channelId=924&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="925" tvg-name="***** Domaci *****" tvg-logo="/noicon.png" group-title="Videoteka",***** Domaci ***** - ***** Domaci *****
+http://s6.kafic.info:80/live?channelId=925&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="926" tvg-name="Akcija tigar" tvg-logo="/noicon.png" group-title="Videoteka",Akcija tigar - Akcija tigar
+http://s6.kafic.info:80/live?channelId=926&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="927" tvg-name="Apsolutnih sto" tvg-logo="/noicon.png" group-title="Videoteka",Apsolutnih sto - Apsolutnih sto
+http://s6.kafic.info:80/live?channelId=927&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="928" tvg-name="Balkanski spijun" tvg-logo="/noicon.png" group-title="Videoteka",Balkanski spijun - Balkanski spijun
+http://s6.kafic.info:80/live?channelId=928&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="929" tvg-name="Duhovi Sarajeva" tvg-logo="/noicon.png" group-title="Videoteka",Duhovi Sarajeva - Duhovi Sarajeva
+http://s6.kafic.info:80/live?channelId=929&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="930" tvg-name="Idi mi dodji mi" tvg-logo="/noicon.png" group-title="Videoteka",Idi mi dodji mi - Idi mi dodji mi
+http://s6.kafic.info:80/live?channelId=930&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="931" tvg-name="Kakav deda takav unuk" tvg-logo="/noicon.png" group-title="Videoteka",Kakav deda takav unuk - Kakav deda takav unuk
+http://s6.kafic.info:80/live?channelId=931&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="932" tvg-name="Karaula" tvg-logo="/noicon.png" group-title="Videoteka",Karaula - Karaula
+http://s6.kafic.info:80/live?channelId=932&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="933" tvg-name="Ko To Tamo Peva" tvg-logo="/noicon.png" group-title="Videoteka",Ko To Tamo Peva - Ko To Tamo Peva
+http://s6.kafic.info:80/live?channelId=933&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="934" tvg-name="Kuduz" tvg-logo="/noicon.png" group-title="Videoteka",Kuduz - Kuduz
+http://s6.kafic.info:80/live?channelId=934&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="935" tvg-name="Lajanje na zvezde" tvg-logo="/noicon.png" group-title="Videoteka",Lajanje na zvezde - Lajanje na zvezde
+http://s6.kafic.info:80/live?channelId=935&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="936" tvg-name="Ljubi ljubi al glavu ne gubi" tvg-logo="/noicon.png" group-title="Videoteka",Ljubi ljubi al glavu ne gubi - Ljubi ljubi al glavu ne gubi
+http://s6.kafic.info:80/live?channelId=936&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="937" tvg-name="Mali Budo" tvg-logo="/noicon.png" group-title="Videoteka",Mali Budo - Mali Budo
+http://s6.kafic.info:80/live?channelId=937&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="938" tvg-name="Maratonci Trce Pocasni Krug" tvg-logo="/noicon.png" group-title="Videoteka",Maratonci Trce Pocasni Krug - Maratonci Trce Pocasni Krug
+http://s6.kafic.info:80/live?channelId=938&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="939" tvg-name="Mi nismo andjeli" tvg-logo="/noicon.png" group-title="Videoteka",Mi nismo andjeli - Mi nismo andjeli
+http://s6.kafic.info:80/live?channelId=939&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="940" tvg-name="Mi nismo andjeli 3" tvg-logo="/noicon.png" group-title="Videoteka",Mi nismo andjeli 3 - Mi nismo andjeli 3
+http://s6.kafic.info:80/live?channelId=940&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="941" tvg-name="Mrtav Ladan" tvg-logo="/noicon.png" group-title="Videoteka",Mrtav Ladan - Mrtav Ladan
+http://s6.kafic.info:80/live?channelId=941&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="942" tvg-name="Munje" tvg-logo="/noicon.png" group-title="Videoteka",Munje - Munje
+http://s6.kafic.info:80/live?channelId=942&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="943" tvg-name="Nacionalna klasa" tvg-logo="/noicon.png" group-title="Videoteka",Nacionalna klasa - Nacionalna klasa
+http://s6.kafic.info:80/live?channelId=943&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="944" tvg-name="Nebo nad krajolikom" tvg-logo="/noicon.png" group-title="Videoteka",Nebo nad krajolikom - Nebo nad krajolikom
+http://s6.kafic.info:80/live?channelId=944&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="945" tvg-name="Nije lako sa muskarcima" tvg-logo="/noicon.png" group-title="Videoteka",Nije lako sa muskarcima - Nije lako sa muskarcima
+http://s6.kafic.info:80/live?channelId=945&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="946" tvg-name="Otac na sluzbenom putu" tvg-logo="/noicon.png" group-title="Videoteka",Otac na sluzbenom putu - Otac na sluzbenom putu
+http://s6.kafic.info:80/live?channelId=946&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="947" tvg-name="Partizanska eskadrila" tvg-logo="/noicon.png" group-title="Videoteka",Partizanska eskadrila - Partizanska eskadrila
+http://s6.kafic.info:80/live?channelId=947&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="948" tvg-name="Sekula i njegove zene" tvg-logo="/noicon.png" group-title="Videoteka",Sekula i njegove zene - Sekula i njegove zene
+http://s6.kafic.info:80/live?channelId=948&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="949" tvg-name="Sjecas li se Dolly Bell" tvg-logo="/noicon.png" group-title="Videoteka",Sjecas li se Dolly Bell - Sjecas li se Dolly Bell
+http://s6.kafic.info:80/live?channelId=949&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="950" tvg-name="Sta se zgodi kad se ljubav rodi" tvg-logo="/noicon.png" group-title="Videoteka",Sta se zgodi kad se ljubav rodi - Sta se zgodi kad se ljubav rodi
+http://s6.kafic.info:80/live?channelId=950&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="951" tvg-name="Tesna koza 1" tvg-logo="/noicon.png" group-title="Videoteka",Tesna koza 1 - Tesna koza 1
+http://s6.kafic.info:80/live?channelId=951&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="952" tvg-name="Tesna koza 2" tvg-logo="/noicon.png" group-title="Videoteka",Tesna koza 2 - Tesna koza 2
+http://s6.kafic.info:80/live?channelId=952&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="953" tvg-name="Tesna koza 3" tvg-logo="/noicon.png" group-title="Videoteka",Tesna koza 3 - Tesna koza 3
+http://s6.kafic.info:80/live?channelId=953&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="954" tvg-name="Tesna koza 4" tvg-logo="/noicon.png" group-title="Videoteka",Tesna koza 4 - Tesna koza 4
+http://s6.kafic.info:80/live?channelId=954&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="955" tvg-name="Valter brani Sarajevo" tvg-logo="/noicon.png" group-title="Videoteka",Valter brani Sarajevo - Valter brani Sarajevo
+http://s6.kafic.info:80/live?channelId=955&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="956" tvg-name="Zikina Dinastija" tvg-logo="/noicon.png" group-title="Videoteka",Zikina Dinastija - Zikina Dinastija
+http://s6.kafic.info:80/live?channelId=956&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="957" tvg-name="Zikina Dinastija 2" tvg-logo="/noicon.png" group-title="Videoteka",Zikina Dinastija 2 - Zikina Dinastija 2
+http://s6.kafic.info:80/live?channelId=957&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="958" tvg-name="Zikina Dinastija 4" tvg-logo="/noicon.png" group-title="Videoteka",Zikina Dinastija 4 - Zikina Dinastija 4
+http://s6.kafic.info:80/live?channelId=958&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="959" tvg-name="Zivi i mrtvi" tvg-logo="/noicon.png" group-title="Videoteka",Zivi i mrtvi - Zivi i mrtvi
+http://s6.kafic.info:80/live?channelId=959&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="960" tvg-name="***** Strani *****" tvg-logo="/noicon.png" group-title="Videoteka",***** Strani ***** - ***** Strani *****
+http://s6.kafic.info:80/live?channelId=960&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="961" tvg-name="2 Guns Zero Tolerance(2016)" tvg-logo="/noicon.png" group-title="Videoteka",2 Guns Zero Tolerance(2016) - 2 Guns Zero Tolerance(2016)
+http://s6.kafic.info:80/live?channelId=961&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="962" tvg-name="American Hero (2015)" tvg-logo="/noicon.png" group-title="Videoteka",American Hero (2015) - American Hero (2015)
+http://s6.kafic.info:80/live?channelId=962&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="963" tvg-name="Band of Robbers (2015)" tvg-logo="/noicon.png" group-title="Videoteka",Band of Robbers (2015) - Band of Robbers (2015)
+http://s6.kafic.info:80/live?channelId=963&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="964" tvg-name="Bridge of Spies(2015)" tvg-logo="/noicon.png" group-title="Videoteka",Bridge of Spies(2015) - Bridge of Spies(2015)
+http://s6.kafic.info:80/live?channelId=964&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="965" tvg-name="Creed (2015)" tvg-logo="/noicon.png" group-title="Videoteka",Creed (2015) - Creed (2015)
+http://s6.kafic.info:80/live?channelId=965&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="966" tvg-name="Dirty Grandpa (2016)" tvg-logo="/noicon.png" group-title="Videoteka",Dirty Grandpa (2016) - Dirty Grandpa (2016)
+http://s6.kafic.info:80/live?channelId=966&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="967" tvg-name="Gangster Squad (2013)" tvg-logo="/noicon.png" group-title="Videoteka",Gangster Squad (2013) - Gangster Squad (2013)
+http://s6.kafic.info:80/live?channelId=967&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="968" tvg-name="Irrational Man (2015)" tvg-logo="/noicon.png" group-title="Videoteka",Irrational Man (2015) - Irrational Man (2015)
+http://s6.kafic.info:80/live?channelId=968&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="969" tvg-name="Jurassic World (2015)" tvg-logo="/noicon.png" group-title="Videoteka",Jurassic World (2015) - Jurassic World (2015)
+http://s6.kafic.info:80/live?channelId=969&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="970" tvg-name="Kingsman: The Secret Service (2014)" tvg-logo="/noicon.png" group-title="Videoteka",Kingsman: The Secret Service (2014) - Kingsman: The Secret Service (2014)
+http://s6.kafic.info:80/live?channelId=970&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="971" tvg-name="Laugh Killer Laugh (2015)" tvg-logo="/noicon.png" group-title="Videoteka",Laugh Killer Laugh (2015) - Laugh Killer Laugh (2015)
+http://s6.kafic.info:80/live?channelId=971&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="972" tvg-name="Legend (2015)" tvg-logo="/noicon.png" group-title="Videoteka",Legend (2015) - Legend (2015)
+http://s6.kafic.info:80/live?channelId=972&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="973" tvg-name="London Has Fallen (2016)" tvg-logo="/noicon.png" group-title="Videoteka",London Has Fallen (2016) - London Has Fallen (2016)
+http://s6.kafic.info:80/live?channelId=973&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="974" tvg-name="Mad Max: Fury Road (2015)" tvg-logo="/noicon.png" group-title="Videoteka",Mad Max: Fury Road (2015) - Mad Max: Fury Road (2015)
+http://s6.kafic.info:80/live?channelId=974&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="975" tvg-name="Risen (2016)" tvg-logo="/noicon.png" group-title="Videoteka",Risen (2016) - Risen (2016)
+http://s6.kafic.info:80/live?channelId=975&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="976" tvg-name="San Andreas (2015)" tvg-logo="/noicon.png" group-title="Videoteka",San Andreas (2015) - San Andreas (2015)
+http://s6.kafic.info:80/live?channelId=976&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="977" tvg-name="Slow West (2015)" tvg-logo="/noicon.png" group-title="Videoteka",Slow West (2015) - Slow West (2015)
+http://s6.kafic.info:80/live?channelId=977&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="978" tvg-name="Star Wars: The Force Awakens (2015)" tvg-logo="/noicon.png" group-title="Videoteka",Star Wars: The Force Awakens (2015) - Star Wars: The Force Awakens (2015)
+http://s6.kafic.info:80/live?channelId=978&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="979" tvg-name="The Benefactor (2015)" tvg-logo="/noicon.png" group-title="Videoteka",The Benefactor (2015) - The Benefactor (2015)
+http://s6.kafic.info:80/live?channelId=979&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="980" tvg-name="The Expendables 3" tvg-logo="/noicon.png" group-title="Videoteka",The Expendables 3 - The Expendables 3
+http://s6.kafic.info:80/live?channelId=980&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="981" tvg-name="The Forger" tvg-logo="/noicon.png" group-title="Videoteka",The Forger - The Forger
+http://s6.kafic.info:80/live?channelId=981&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="982" tvg-name="The Last Witch Hunter" tvg-logo="/noicon.png" group-title="Videoteka",The Last Witch Hunter - The Last Witch Hunter
+http://s6.kafic.info:80/live?channelId=982&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="983" tvg-name="The Legend of Tarzan (2016)" tvg-logo="/noicon.png" group-title="Videoteka",The Legend of Tarzan (2016) - The Legend of Tarzan (2016)
+http://s6.kafic.info:80/live?channelId=983&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="984" tvg-name="The Martian (2015)" tvg-logo="/noicon.png" group-title="Videoteka",The Martian (2015) - The Martian (2015)
+http://s6.kafic.info:80/live?channelId=984&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="985" tvg-name="The Trust (2016)" tvg-logo="/noicon.png" group-title="Videoteka",The Trust (2016) - The Trust (2016)
+http://s6.kafic.info:80/live?channelId=985&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="986" tvg-name="The Big Short (2015)" tvg-logo="/noicon.png" group-title="Videoteka",The Big Short (2015) - The Big Short (2015)
+http://s6.kafic.info:80/live?channelId=986&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="987" tvg-name="The Hateful Eight (2015)" tvg-logo="/noicon.png" group-title="Videoteka",The Hateful Eight (2015) - The Hateful Eight (2015)
+http://s6.kafic.info:80/live?channelId=987&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="988" tvg-name="The Revenant (2015)" tvg-logo="/noicon.png" group-title="Videoteka",The Revenant (2015) - The Revenant (2015)
+http://s6.kafic.info:80/live?channelId=988&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="989" tvg-name="Warcraft (2016)" tvg-logo="/noicon.png" group-title="Videoteka",Warcraft (2016) - Warcraft (2016)
+http://s6.kafic.info:80/live?channelId=989&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="990" tvg-name="***** Crtani *****" tvg-logo="/noicon.png" group-title="Videoteka",***** Crtani ***** - ***** Crtani *****
+http://s6.kafic.info:80/live?channelId=990&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="991" tvg-name="Alvin i Veverice 3" tvg-logo="/noicon.png" group-title="Videoteka",Alvin i Veverice 3 - Alvin i Veverice 3
+http://s6.kafic.info:80/live?channelId=991&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="992" tvg-name="Arthur u zemlji Minimoya" tvg-logo="/noicon.png" group-title="Videoteka",Arthur u zemlji Minimoya - Arthur u zemlji Minimoya
+http://s6.kafic.info:80/live?channelId=992&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="993" tvg-name="Automobili" tvg-logo="/noicon.png" group-title="Videoteka",Automobili - Automobili
+http://s6.kafic.info:80/live?channelId=993&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="994" tvg-name="Avioni 2 Nebeski vatrogasci" tvg-logo="/noicon.png" group-title="Videoteka",Avioni 2 Nebeski vatrogasci - Avioni 2 Nebeski vatrogasci
+http://s6.kafic.info:80/live?channelId=994&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="995" tvg-name="Barbi i tri musketira" tvg-logo="/noicon.png" group-title="Videoteka",Barbi i tri musketira - Barbi i tri musketira
+http://s6.kafic.info:80/live?channelId=995&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="996" tvg-name="Barbi Savrsen Bozic" tvg-logo="/noicon.png" group-title="Videoteka",Barbi Savrsen Bozic - Barbi Savrsen Bozic
+http://s6.kafic.info:80/live?channelId=996&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="997" tvg-name="Barbie i carobni pegaz" tvg-logo="/noicon.png" group-title="Videoteka",Barbie i carobni pegaz - Barbie i carobni pegaz
+http://s6.kafic.info:80/live?channelId=997&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="998" tvg-name="Barbie Mariposa" tvg-logo="/noicon.png" group-title="Videoteka",Barbie Mariposa - Barbie Mariposa
+http://s6.kafic.info:80/live?channelId=998&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="999" tvg-name="BARBIE Princeza s otoka" tvg-logo="/noicon.png" group-title="Videoteka",BARBIE Princeza s otoka - BARBIE Princeza s otoka
+http://s6.kafic.info:80/live?channelId=999&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="1000" tvg-name="Despicable Me 2" tvg-logo="/noicon.png" group-title="Videoteka",Despicable Me 2 - Despicable Me 2
+http://s6.kafic.info:80/live?channelId=1000&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="1001" tvg-name="Dinosaurus" tvg-logo="/noicon.png" group-title="Videoteka",Dinosaurus - Dinosaurus
+http://s6.kafic.info:80/live?channelId=1001&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="1002" tvg-name="Kako trenirati zmaja 2" tvg-logo="/noicon.png" group-title="Videoteka",Kako trenirati zmaja 2 - Kako trenirati zmaja 2
+http://s6.kafic.info:80/live?channelId=1002&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="1003" tvg-name="Knjiga o dzungli 2" tvg-logo="/noicon.png" group-title="Videoteka",Knjiga o dzungli 2 - Knjiga o dzungli 2
+http://s6.kafic.info:80/live?channelId=1003&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="1004" tvg-name="Kralj lavova" tvg-logo="/noicon.png" group-title="Videoteka",Kralj lavova - Kralj lavova
+http://s6.kafic.info:80/live?channelId=1004&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="1005" tvg-name="Potraga za Nemom" tvg-logo="/noicon.png" group-title="Videoteka",Potraga za Nemom - Potraga za Nemom
+http://s6.kafic.info:80/live?channelId=1005&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="1006" tvg-name="Ruzno pace" tvg-logo="/noicon.png" group-title="Videoteka",Ruzno pace - Ruzno pace
+http://s6.kafic.info:80/live?channelId=1006&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="1007" tvg-name="Setnja sa Dinosaurima" tvg-logo="/noicon.png" group-title="Videoteka",Setnja sa Dinosaurima - Setnja sa Dinosaurima
+http://s6.kafic.info:80/live?channelId=1007&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="1008" tvg-name="Shrek" tvg-logo="/noicon.png" group-title="Videoteka",Shrek - Shrek
+http://s6.kafic.info:80/live?channelId=1008&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="1009" tvg-name="Snjezno Kraljevstvo" tvg-logo="/noicon.png" group-title="Videoteka",Snjezno Kraljevstvo - Snjezno Kraljevstvo
+http://s6.kafic.info:80/live?channelId=1009&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
+#EXTINF:-1 tvg-id="1010" tvg-name="Tarzan" tvg-logo="/noicon.png" group-title="Videoteka",Tarzan - Tarzan
+http://s6.kafic.info:80/live?channelId=1010&uid=12036&deviceUser=100bulent&devicePass=sq3TXqagfLur9nsb
